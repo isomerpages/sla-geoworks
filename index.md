@@ -25,10 +25,13 @@ sections:
         - title: SLA Products
           description: Platforms and Services
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: OneMap GPT Challenge
+      subtitle: Challenges
+      id: infopic
+      description: SLA is looking for a prototype solution leveraging Generative AI
+        technologies that can strengthen the relevance and appeal of OneMap.
+      button: Button Text
+      image: /images/onemap gpt challenge banner.PNG
+      alt: Image alt text
 ---
