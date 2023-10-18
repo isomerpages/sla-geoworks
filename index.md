@@ -9,18 +9,21 @@ sections:
   - hero:
       title: GeoWorks
       subtitle: A Geospatial Industry Programme by the Singapore Land Authority
-      background: /images/hero-banner.png
+      background: /images/80a5c34d-7e14-4006-a45c-eebd9672659c.JPG
       button: Contact Us
-      url: /contact-us/
+      url: geoworks@sla.gov.sg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About Us
+          description: Mission and Value Propositions
+          url: ""
+        - title: Programmes
+          description: Events and Challenges
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Community
+          description: Partners and Collaborators
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: SLA Products
+          description: Platforms and Services
           url: /privacy/
   - infobar:
       title: Infobar title
