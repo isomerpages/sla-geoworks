@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Mission and Value Propositions
-          url: ""
+          url: /about-us
         - title: Programmes
           description: Events and Challenges
           url: https://google.com
