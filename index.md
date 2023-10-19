@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: GeoWorks
+description: GeoWorks - Southeast Asia’s first geospatial industry centre
 image: /images/isomer-logo.svg
 permalink: /
 notification: Join us at Geo Connect Asia 2024 from 6 to 7 March 2024!
