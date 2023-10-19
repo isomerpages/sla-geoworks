@@ -35,4 +35,15 @@ sections:
       image: /images/onemap gpt challenge banner.PNG
       alt: Image alt text
       url: /programmes/
+  - infopic:
+      title: Geo Connect Asia 2024
+      subtitle: Event
+      id: infopic
+      description: Your gateway to meeting the world’s leading influencers in
+        geospatial technology and location intelligence solutions, right at the
+        heart of Singapore.
+      button: Click here to find out more
+      url: https://www.geoconnectasia.com/
+      image: /images/geo connect asia 2024 banner.PNG
+      alt: Image alt text
 ---
