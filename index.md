@@ -31,7 +31,8 @@ sections:
       id: infopic
       description: SLA is looking for a prototype solution leveraging Generative AI
         technologies that can strengthen the relevance and appeal of OneMap.
-      button: Button Text
+      button: click here to find out more
       image: /images/onemap gpt challenge banner.PNG
       alt: Image alt text
+      url: /programmes/
 ---
