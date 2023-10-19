@@ -14,8 +14,8 @@ links:
     url: /sla-products/
     sublinks:
       - title: OneMap
-        url: /sla-products/onemap
+        url: /sla-products/onemap/
       - title: Licensed Data
-        url: /sla-products/licensed-data
+        url: /sla-products/licensed-data/
       - title: INLIS
-        url: /sla-products/inlis
+        url: /sla-products/inlis/
