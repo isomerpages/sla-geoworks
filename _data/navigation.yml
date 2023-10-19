@@ -10,5 +10,12 @@ links:
     url: /sla-products/permalink/
   - title: Contact Us
     url: /contact-us/
-  - title: SLA Product
-    collection: sla-products
+  - title: SLA Products
+    url: /sla-products/
+    sublinks:
+      - title: OneMap
+        url: /sla-products/onemap
+      - title: Licensed Data
+        url: /sla-products/licensed-data
+      - title: INLIS
+        url: /sla-products/inlis
