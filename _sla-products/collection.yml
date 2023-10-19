@@ -1,0 +1,4 @@
+collections:
+  sla-products:
+    output: true
+    order: []
