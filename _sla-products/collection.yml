@@ -4,6 +4,5 @@ collections:
     order:
       - Licensed Data/Licensed Data.md
       - Licensed Data/.keep
-      - OneMap/OneMap.md
       - OneMap/.keep
       - INLIS.md
