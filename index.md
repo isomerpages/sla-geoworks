@@ -18,7 +18,7 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: /programmes
+          url: /programmes/sggeofest/
         - title: Community
           description: Partners and Collaborators
           url: https://gmail.com
