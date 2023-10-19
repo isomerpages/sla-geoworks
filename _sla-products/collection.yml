@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - OneMap/.keep
-      - OneMap.md
       - Licensed Data.md
       - INLIS.md
