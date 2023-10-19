@@ -1,4 +1,5 @@
 collections:
   sla-products:
     output: true
-    order: []
+    order:
+      - SLA Products.md
