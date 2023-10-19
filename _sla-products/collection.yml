@@ -2,6 +2,6 @@ collections:
   sla-products:
     output: true
     order:
-      - Licensed Data.md
       - OneMap.md
+      - Licensed Data.md
       - INLIS.md
