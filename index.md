@@ -18,13 +18,13 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: https://google.com
+          url: /programmes
         - title: Community
           description: Partners and Collaborators
           url: https://gmail.com
         - title: SLA Products
           description: Platforms and Services
-          url: /privacy/
+          url: /sla-products
   - infopic:
       title: OneMap GPT Challenge
       subtitle: Challenges
