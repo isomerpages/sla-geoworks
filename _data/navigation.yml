@@ -3,7 +3,14 @@ links:
   - title: About Us
     url: /about-us/
   - title: Programmes
-    url: /Programmes/
+    url: /programmes/sggeofest
+    sublinks:
+      - title: Singapore Geospatial Festival
+        url: /permalink
+      - title: ASEAN Geospatial Challenge
+        url: /permalink
+      - title: OneMap GPT Challenge
+        url: /permalink
   - title: Community
     url: /Community/
   - title: SLA Products
