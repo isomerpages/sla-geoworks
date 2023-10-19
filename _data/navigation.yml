@@ -6,11 +6,11 @@ links:
     url: /programmes/sggeofest
     sublinks:
       - title: Singapore Geospatial Festival
-        url: /permalink
+        url: /programmes/sggeofest
       - title: ASEAN Geospatial Challenge
-        url: /permalink
+        url: /programmes/aseangeospatialchallenge
       - title: OneMap GPT Challenge
-        url: /permalink
+        url: /programmes/onemapgptchallenge
   - title: Community
     url: /Community/
   - title: SLA Products
