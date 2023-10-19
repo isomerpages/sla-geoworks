@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - ASEAN Geospatial Challenge.md
       - Singapore Geospatial Festival.md
+      - ASEAN Geospatial Challenge.md
