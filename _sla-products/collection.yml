@@ -2,4 +2,5 @@ collections:
   sla-products:
     output: true
     order:
+      - Licensed Data.md
       - SLA Products.md
