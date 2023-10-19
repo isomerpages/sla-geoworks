@@ -6,10 +6,6 @@ links:
     url: /Programmes/
   - title: Community
     url: /Community/
-  - title: SLA Products2
-    url: /sla-products/permalink/
-  - title: Contact Us
-    url: /contact-us/
   - title: SLA Products
     url: /sla-products/onemap
     sublinks:
@@ -19,3 +15,5 @@ links:
         url: /sla-products/licensed-data/
       - title: INLIS
         url: /sla-products/inlis/
+  - title: Contact Us
+    url: /contact-us/
