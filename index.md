@@ -24,7 +24,7 @@ sections:
           url: https://gmail.com
         - title: SLA Products
           description: Platforms and Services
-          url: /sla-products
+          url: /sla-products/onemap
   - infopic:
       title: OneMap GPT Challenge
       subtitle: Challenges
