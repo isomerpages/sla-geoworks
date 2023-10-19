@@ -6,7 +6,9 @@ links:
     url: /Programmes/
   - title: Community
     url: /Community/
-  - title: SLA Products
+  - title: SLA Products2
     url: /sla-products/permalink/
   - title: Contact Us
     url: /contact-us/
+  - title: SLA Product
+    collection: sla-products
