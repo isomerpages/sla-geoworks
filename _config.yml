@@ -3,7 +3,7 @@ url: https://www.sla.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#417505"
-  secondary-color: "#4372d6"
+  secondary-color: "#b8e986"
   media-colors:
     - title: media-color-one
       color: "#49759a"
