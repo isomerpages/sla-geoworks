@@ -22,7 +22,7 @@ The OneMap platform offers:
 *   Land Lot and Land Ownership Information
 *   Residential Property Information Including
 
-*   Type of Residential Property
+	*   Type of Residential Property
 	*   Property Price 
 	*   Transaction Period
 
