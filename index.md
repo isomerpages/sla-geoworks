@@ -21,7 +21,7 @@ sections:
           url: /programmes/sggeofest/
         - title: Community
           description: Partners and Collaborators
-          url: https://gmail.com
+          url: /community/ourpartners
         - title: SLA Products
           description: Platforms and Services
           url: /sla-products/onemap
