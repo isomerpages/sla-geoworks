@@ -12,8 +12,12 @@ links:
       - title: OneMap GPT Challenge
         url: /programmes/onemapgptchallenge
   - title: Community
-    url: /permalink
-    sublinks: []
+    url: /community/ourpartners
+    sublinks:
+      - title: Our Partners
+        url: /community/ourpartners
+      - title: Member Products
+        url: /community/memberproducts
   - title: SLA Products
     url: /sla-products/onemap
     sublinks:
