@@ -2,5 +2,5 @@ collections:
   community:
     output: true
     order:
-      - Member Products.md
       - Our Partners.md
+      - Member Products.md
