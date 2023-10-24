@@ -37,7 +37,7 @@ sections:
       url: /programmes/onemapgptchallenge
   - infopic:
       title: Geo Connect Asia 2024
-      subtitle: Event
+      subtitle: Events
       id: infopic
       description: Your gateway to meeting the world’s leading influencers in
         geospatial technology and location intelligence solutions, right at the
