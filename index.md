@@ -34,7 +34,7 @@ sections:
       button: click here to find out more
       image: /images/onemap gpt challenge banner.PNG
       alt: Image alt text
-      url: /programmes/
+      url: /programmes/onemapgptchallenge
   - infopic:
       title: Geo Connect Asia 2024
       subtitle: Event
