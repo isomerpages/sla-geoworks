@@ -11,7 +11,7 @@ sections:
       subtitle: A Geospatial Industry Programme by the Singapore Land Authority
       background: /images/80a5c34d-7e14-4006-a45c-eebd9672659c.JPG
       button: Contact Us
-      url: geoworks@sla.gov.sg
+      url: mailto:geoworks@sla.gov.sg
       key_highlights:
         - title: About Us
           description: Mission and Value Propositions
