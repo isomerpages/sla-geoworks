@@ -1,0 +1,6 @@
+collections:
+  community:
+    output: true
+    order:
+      - Our Partners.md
+      - Member Products.md
