@@ -8,7 +8,7 @@ notification: Join us at Geo Connect Asia 2024 from 6 to 7 March 2024!
 sections:
   - hero:
       title: GeoWorks
-      subtitle: A Geospatial Industry Programme by the Singapore Land Authority
+      subtitle: A Geospatial Industry Centre by the Singapore Land Authority
       background: /images/80a5c34d-7e14-4006-a45c-eebd9672659c.JPG
       button: Contact Us
       url: mailto:geoworks@sla.gov.sg
