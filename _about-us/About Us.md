@@ -11,4 +11,3 @@ GeoWorks is Southeast Asia’s first geospatial industry centre, operated by the
 GeoWorks also runs regular training sessions, partner and community events. GeoWorks' key initiatives include GeoChallenges that match solution providers with sector users looking to solve their geospatial issues through joint innovation projects and OneMap and data licensing.
 
 ![World Cities Summit](/images/img_9262.JPG)
-Learn more about GeoWorks.%20BrochureAug2021.pdf)
