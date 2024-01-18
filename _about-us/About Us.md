@@ -10,5 +10,8 @@ GeoWorks is Southeast Asia’s first geospatial industry centre, operated by the
 
 GeoWorks also runs regular training sessions, partner and community events. GeoWorks' key event is Singapore Geospatial Festival. First organised successfully in 2019, GeoWorks continues to organise this event in Sep/Oct every year. Find out more about the 2023 edition [here](https://www.sla.gov.sg/programmes/sggeofest/).
 
+![](/images/DSC09254_Enhanced_NR.jpg)
 
-![World Cities Summit](/images/img_9262.JPG)
+![](/images/DSC09596.jpg)
+
+![](/images/80a5c34d-7e14-4006-a45c-eebd9672659c.JPG)
