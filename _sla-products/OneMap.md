@@ -2,6 +2,7 @@
 title: OneMap
 permalink: /sla-products/onemap/
 description: ""
+variant: markdown
 ---
 OneMap is the national map platform to enable government agencies to deliver geospatial information and services to the people, public and private sectors.
 
@@ -44,3 +45,12 @@ OneMap APIs are available for: 
 *   Routing 
 *   Advanced Mini-map
 *   Static Map
+
+**Industry Use Cases**
+![](/images/16.png)
+
+**For Government Agencies**  
+The OneMap platform is used in over 100 government and private apps and services. It has more than 110 thematic layers. And it allows for smooth integration through its APIs.
+![](/images/17.png)
+
+**Contact [geoworks@sla.gov.sg](mailto:geoworks@sla.gov.sg) to learn more.**
