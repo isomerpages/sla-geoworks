@@ -68,7 +68,8 @@ Students took part in a learning workshop and subsequently formed teams to creat
 **Back Row**: My OneMap Workshop Participating Teams
 
 **Watch video here:**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/zfLB0g5eaw4" height="315" width="560"></iframe>
+
+
 
 Young Geospatial Scientist Badge Activity
 -----------------------------------------
@@ -77,4 +78,4 @@ The Young Geospatial Scientist Badge Scheme by the Science Centre Board (SCB) an
 As part of SG GeoFest and in collaboration with SCB, the half-day Young Geospatial Scientist Badge activity was conducted at Blangah Rise Primary School and Zhenghua Primary School in August respectively. Through tasks such as learning to read maps or locating nearby Points of Interest, the primary school students were exposed to the topic of geospatial.
 
 **Blangah Rise Primary School**
-
+![](/images/9.png)
