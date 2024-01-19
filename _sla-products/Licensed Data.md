@@ -2,6 +2,7 @@
 title: Licensed Data
 permalink: /sla-products/licensed-data/
 description: ""
+variant: markdown
 ---
 The Singapore Land Authority (SLA) is the trusted centre for authoritative government geospatial data in Singapore. 
 
@@ -21,7 +22,7 @@ The types of datasets available under SLA Licensed Data are: 
 
 • Land Base Building Outline
 
-
+![](/images/12.png)
 
 **Industry Use Cases**
 
@@ -38,10 +39,13 @@ SLA’s geospatial products have been adopted in several sectors in a variety of
 
 • The OneMap API, combined with Licensed Data, help ride-hailing companies verify their address points and routes for taxis
 
+![](/images/13.png)
+
 **Infocomm**
 
 • Telecommunication operators integrate cable plans with SLA's streetmap Licensed Data for highly accurate underground cable installation
 
+![](/images/14.png)
 
 
 # Customer Case Study
