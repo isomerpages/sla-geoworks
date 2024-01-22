@@ -44,7 +44,7 @@ sections:
         technology & information to support nations in achieving the Sustainable
         Development Goals.
       button: Click here to find out more
-      url: https://www.sla.gov.sg/geoworks/programmes/geochallenges/asean-geospatial-challenge-2024
+      url: https://www.sla.gov.sg/programmes/aseangeospatialchallenge/
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
