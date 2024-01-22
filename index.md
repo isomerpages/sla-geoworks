@@ -37,6 +37,16 @@ sections:
       image: /images/geo connect asia 2024 banner.PNG
       alt: Image alt text
   - infopic:
+      title: ASEAN Geospatial Challenge (AGC) 2024
+      subtitle: Challenges
+      id: infopic
+      description: AGC2024 brings youth in the ASEAN region together to use geospatial
+        technology & information to support nations in achieving the Sustainable
+        Development Goals.
+      button: Click here to find out more
+      url: https://www.sla.gov.sg/geoworks/programmes/geochallenges/asean-geospatial-challenge-2024
+      alt: Image alt text
+  - infopic:
       title: OneMap GPT Challenge
       subtitle: Challenges
       id: infopic
