@@ -46,6 +46,7 @@ sections:
       button: Click here to find out more
       url: https://www.sla.gov.sg/geoworks/programmes/geochallenges/asean-geospatial-challenge-2024
       alt: Image alt text
+      image: /images/AGC_banner.png
   - infopic:
       title: OneMap GPT Challenge
       subtitle: Challenges
