@@ -26,16 +26,6 @@ sections:
           description: Platforms and Services
           url: /sla-products/onemap
   - infopic:
-      title: OneMap GPT Challenge
-      subtitle: Challenges
-      id: infopic
-      description: SLA is looking for a prototype solution leveraging Generative AI
-        technologies that can strengthen the relevance and appeal of OneMap.
-      button: click here to find out more
-      image: /images/onemap gpt challenge banner.PNG
-      alt: Image alt text
-      url: /programmes/onemapgptchallenge
-  - infopic:
       title: Geo Connect Asia 2024
       subtitle: Events
       id: infopic
@@ -46,4 +36,14 @@ sections:
       url: https://www.geoconnectasia.com/
       image: /images/geo connect asia 2024 banner.PNG
       alt: Image alt text
+  - infopic:
+      title: OneMap GPT Challenge
+      subtitle: Challenges
+      id: infopic
+      description: SLA is looking for a prototype solution leveraging Generative AI
+        technologies that can strengthen the relevance and appeal of OneMap.
+      button: click here to find out more
+      image: /images/onemap gpt challenge banner.PNG
+      alt: Image alt text
+      url: /programmes/onemapgptchallenge
 ---
