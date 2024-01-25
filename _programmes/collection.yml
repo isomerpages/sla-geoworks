@@ -1,0 +1,7 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Singapore Geospatial Festival.md
+      - ASEAN Geospatial Challenge.md
+      - OneMap GPT Challenge.md

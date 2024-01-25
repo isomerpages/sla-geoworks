@@ -1,0 +1,31 @@
+logo: /images/geoworks-sla_col.png
+links:
+  - title: About Us
+    url: /about-us/
+  - title: Programmes
+    url: /programmes/sggeofest
+    sublinks:
+      - title: Singapore Geospatial Festival
+        url: /programmes/sggeofest
+      - title: ASEAN Geospatial Challenge
+        url: /programmes/aseangeospatialchallenge
+      - title: OneMap GPT Challenge
+        url: /programmes/onemapgptchallenge
+  - title: Community
+    url: /community/ourpartners
+    sublinks:
+      - title: Our Partners
+        url: /community/ourpartners
+      - title: Member Products
+        url: /community/memberproducts
+  - title: SLA Products
+    url: /sla-products/onemap
+    sublinks:
+      - title: OneMap
+        url: /sla-products/onemap/
+      - title: Licensed Data
+        url: /sla-products/licensed-data/
+      - title: INLIS
+        url: /sla-products/inlis/
+  - title: Contact Us
+    url: /contact-us/
