@@ -63,6 +63,11 @@ sections:
   - infobar:
       title: SLA PRODUCTS
       id: infobar
+  - infopic:
+      subtitle: OneMap
+      id: infopic
+      button: Find out more
       url: /sla-products/onemap/
-      button: Find Out more
+      image: /images/onemap screenshot 1.PNG
+      alt: Image alt text
 ---
