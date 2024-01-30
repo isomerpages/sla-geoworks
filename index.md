@@ -64,10 +64,33 @@ sections:
       title: SLA PRODUCTS
       id: infobar
   - infopic:
-      subtitle: OneMap
       id: infopic
       button: Find out more
       url: /sla-products/onemap/
       image: /images/onemap screenshot 1.PNG
+      alt: Image alt text
+      description: OneMap is the national map platform to enable government agencies
+        to deliver geospatial information and services to the people, public and
+        private sectors.
+      title: OneMap
+  - infopic:
+      title: Licensed Data
+      id: infopic
+      description: "SLA offers geospatial data that are authoritative, accurate,
+        granular, timely and localised via SLA products that include Licensed
+        Data. "
+      button: Find out more
+      url: /sla-products/licensed-data/
+      image: /images/Data_Licensing__002_.jpg
+      alt: Image alt text
+  - infopic:
+      title: INLIS
+      id: infopic
+      description: INLIS is a one-stop online portal which allows users to search and
+        purchase land and property-related information such as property
+        ownership & road line plans.
+      button: Find out more
+      url: /sla-products/inlis/
+      image: /images/inlis_logo_lock.png
       alt: Image alt text
 ---
