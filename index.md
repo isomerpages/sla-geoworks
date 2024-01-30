@@ -76,9 +76,9 @@ sections:
   - infopic:
       title: Licensed Data
       id: infopic
-      description: "SLA offers geospatial data that are authoritative, accurate,
+      description: SLA offers geospatial data that are authoritative, accurate,
         granular, timely and localised via SLA products that include Licensed
-        Data. "
+        Data.
       button: Find out more
       url: /sla-products/licensed-data/
       image: /images/Data_Licensing__002_.jpg
