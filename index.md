@@ -25,6 +25,9 @@ sections:
         - title: SLA Products
           description: Platforms and Services
           url: /sla-products/onemap
+  - infobar:
+      title: PROGRAMMES
+      id: infobar
   - infopic:
       title: Geo Connect Asia 2024
       subtitle: Events
@@ -57,4 +60,7 @@ sections:
       image: /images/onemap gpt challenge banner.PNG
       alt: Image alt text
       url: /programmes/onemapgptchallenge
+  - infobar:
+      title: SLA PRODUCTS
+      id: infobar
 ---
