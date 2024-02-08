@@ -2,8 +2,8 @@ title: GeoWorks
 url: https://www.sla.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#417505"
-  secondary-color: "#7ed321"
+  primary-color: "#3e6f60"
+  secondary-color: "#b23954"
   media-colors:
     - title: media-color-one
       color: "#4a4a4a"
