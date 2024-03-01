@@ -2,8 +2,11 @@
 title: OneMap GPT Challenge
 permalink: /programmes/onemapgptchallenge/
 description: ""
+variant: markdown
 ---
-SLA is looking for a prototype solution leveraging Generative AI technologies (such as GPT/Large Language Models) that can strengthen the relevance and appeal of OneMap among OneMap’s core user segments (e.g., public users, real-estate agencies, logistic businesses and other public agencies etc.) by enhancing current and /or introducing new functions and features.
+
+
+![](/images/Screenshot_2024_03_01_093254.png)SLA is looking for a prototype solution leveraging Generative AI technologies (such as GPT/Large Language Models) that can strengthen the relevance and appeal of OneMap among OneMap’s core user segments (e.g., public users, real-estate agencies, logistic businesses and other public agencies etc.) by enhancing current and /or introducing new functions and features.
 
 ![OneMap GPT Organising Agencies](/images/onemap%20gpt%20organising%20agencies.PNG)
 
@@ -34,5 +37,3 @@ SLA will conduct a challenge briefing session on 12 Oct 2023, 1000 hours (SGT/GM
 # ABOUT ONEMAP
 
 The Singapore Land Authority’s (SLA) OneMap mapping service is the authoritative whole-of-government platform sharing government agencies’ geospatial data of Singapore to our citizens and businesses. It provides detailed and timely information. The platform is a trusted source for geospatial information, presented in an easily digestible visual and spatial format. It can be used to obtain street-level geospatial information, or narrowed down to specific queries such as land ownership, school information and demographic data at a chosen location. Currently, popular features include routing, land information and demographic data.
-
-
