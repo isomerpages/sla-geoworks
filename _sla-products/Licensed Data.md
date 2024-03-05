@@ -33,7 +33,7 @@ areas</p>
 <p>• The OneMap API, combined with Licensed Data, help ride-hailing companies
 verify their address points and routes for taxis</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/13.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/13.png">
 </div>
 <p><strong>Infocomm</strong>
 </p>
@@ -45,7 +45,7 @@ Licensed Data for highly accurate underground cable installation</p>
 <p><strong><em>Using SLA data to deploy taxis more efficiently during peak hours</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Licensed Data ComfortDelgro Case Study" src="/images/licensed%20data%20comfortdelgro%20case%20study.PNG">
+<img style="width: 40%;" height="auto" width="100%" alt="Licensed Data ComfortDelgro Case Study" src="/images/licensed%20data%20comfortdelgro%20case%20study.PNG">
 </div>
 <p>ComfortDelGro Taxi uses SLA’s Licensed data combined with OneMap stack
 to serve their internal customers to verify amenities and POIs. This enables
