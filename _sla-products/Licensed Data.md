@@ -39,9 +39,6 @@ verify their address points and routes for taxis</p>
 </p>
 <p>• Telecommunication operators integrate cable plans with SLA's streetmap
 Licensed Data for highly accurate underground cable installation</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14.png">
-</div>
 <h1>Customer Case Study</h1>
 <p><strong>ComfortDelGro Taxi and SLA’s Licensed Data</strong>
 </p>
