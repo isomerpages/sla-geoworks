@@ -47,7 +47,7 @@ sections:
         technology & information to support nations in achieving the Sustainable
         Development Goals.
       button: Click here to find out more
-      url: https://www.sla.gov.sg/programmes/aseangeospatialchallenge/
+      url: https://geoworks.sla.gov.sg/programmes/aseangeospatialchallenge/
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
