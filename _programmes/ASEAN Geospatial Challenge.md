@@ -145,6 +145,37 @@ SGT</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_093115.png">
 </div>
-<p>Find out more about the winning projects from the ASEAN Geospatial Challenge
-2023&nbsp;<a href="https://www.sla.gov.sg/geoworks/settings/archives/may-2023/asean-geospatial-challenge-2023-winners" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-and watch the AGC23 video&nbsp;<a href="https://www.youtube.com/watch?v=W2T7WueF8pk" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h2>Winners of ASEAN Geospatial Challenge 2024</h2>
+<p>Distinction Award</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>GajahITB (Bandung Institute of Technology, Indonesia)</p>
+</li>
+<li>
+<p>Jograph-Vi (University at Buffalo - Singapore Institute of Management,
+Singapore)</p>
+</li>
+</ol>
+<p>Excellence Award</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>tech SaAvy (National University of Singapore, Singapore)</p>
+</li>
+<li>
+<p>STEDIA (Kasem Bundit Unversity, Thailand)</p>
+</li>
+<li>
+<p>Sindora Explorers (University of the Philippines, Los Banos, Philippines)</p>
+</li>
+</ol>
+<p>Merit Award</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Elboyz (University of the Philippines, Los Banos, Philippines)</p>
+</li>
+<li>
+<p>SeaBOT (Sriwijaya University, Indonesia)</p>
+</li>
+</ol>
+<p></p>
+<p></p>
