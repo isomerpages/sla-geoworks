@@ -162,7 +162,7 @@ Singapore)</p>
 <p>tech SaAvy (National University of Singapore, Singapore)</p>
 </li>
 <li>
-<p>STEDIA (Kasem Bundit Unversity, Thailand)</p>
+<p>STEDIA (Kasem Bundit University, Thailand)</p>
 </li>
 <li>
 <p>Sindora Explorers (University of the Philippines Los Banos, Philippines)</p>
