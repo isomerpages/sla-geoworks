@@ -146,7 +146,7 @@ SGT</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_093115.png">
 </div>
 <h2>Winners of ASEAN Geospatial Challenge 2024</h2>
-<p>Distinction Award</p>
+<h4>Distinction Award</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>GajahITB (Bandung Institute of Technology, Indonesia)</p>
@@ -156,7 +156,7 @@ SGT</p>
 Singapore)</p>
 </li>
 </ol>
-<p>Excellence Award</p>
+<h4>Excellence Award</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>tech SaAvy (National University of Singapore, Singapore)</p>
@@ -168,7 +168,7 @@ Singapore)</p>
 <p>Sindora Explorers (University of the Philippines, Los Banos, Philippines)</p>
 </li>
 </ol>
-<p>Merit Award</p>
+<h4>Merit Award</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Elboyz (University of the Philippines, Los Banos, Philippines)</p>
@@ -177,5 +177,7 @@ Singapore)</p>
 <p>SeaBOT (Sriwijaya University, Indonesia)</p>
 </li>
 </ol>
+<p></p>
+<p>Watch the AGC 24 Video Montage!</p>
 <p></p>
 <p></p>
