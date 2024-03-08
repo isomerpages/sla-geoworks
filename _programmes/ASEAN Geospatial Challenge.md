@@ -165,13 +165,13 @@ Singapore)</p>
 <p>STEDIA (Kasem Bundit Unversity, Thailand)</p>
 </li>
 <li>
-<p>Sindora Explorers (University of the Philippines, Los Banos, Philippines)</p>
+<p>Sindora Explorers (University of the Philippines Los Banos, Philippines)</p>
 </li>
 </ol>
 <h4>Merit Award</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Elboyz (University of the Philippines, Los Banos, Philippines)</p>
+<p>Elboyz (University of the Philippines Los Banos, Philippines)</p>
 </li>
 <li>
 <p>SeaBOT (Sriwijaya University, Indonesia)</p>
