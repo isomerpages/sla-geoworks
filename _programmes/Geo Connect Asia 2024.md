@@ -19,7 +19,7 @@ and going global.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1709708349322.jpg">
 </div>
-<p><strong>Memorandum of Understanding Signing Ceremonies</strong>
+<p><strong>Memorandum of Understanding Signing Ceremonies</strong> 
 <br>
 </p>
 <p>The event also saw the signing of 2 Memorandum of Understanding with SingHealth
@@ -37,7 +37,7 @@ healthcare.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1709708350811.jpg">
 </div>
-<p><strong>OneMap GPT Challenge Winning Prototypes<br></strong>
+<p><strong>OneMap GPT Challenge Winning Prototypes<br></strong> 
 <br>Congratulations to&nbsp;winners of the inaugural OneMap GPT Challenge,
 Huawei and BuzzAR!
 <br>
@@ -49,7 +49,7 @@ across industries. Watch the presentation <a href="https://www.linkedin.com/post
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_20_114548.png">
 </div>
-<p><strong>Touring of SLA Booth</strong>
+<p><strong>Touring of SLA Booth</strong> 
 <br>
 <br>SLA Chairman, Mr Yeoh Oon Jin then took a tour of the exhibition grounds,
 first stopping at the SLA booth where the winners of SLA’s OneMap GPT Challenge,
@@ -72,7 +72,7 @@ SLA.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1709868359926.jpg">
 </div>
 <p></p>
-<p><strong>Panel Discussions</strong>
+<p><strong>Panel Discussions</strong> 
 <br>
 <br>SLA also took to the stage at Geo Connect Asia&nbsp;on 6 March 2024, steering
 two insightful panel discussions that delved into the future of public
@@ -124,11 +124,7 @@ Management
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1710155299965.jpg">
 </div>
-<p>About the ASEAN Geospatial Challenge:
-<br>Targeted at students from Institutes of Higher Learning, Geospatial Youth
-Edition brings youth in the ASEAN region together to use geospatial technology
-and information to support nations in achieving their Sustainable Development
-Goals (SDGs).
+<p><em>About the ASEAN Geospatial Challenge: <br>Targeted at students from Institutes of Higher Learning, Geospatial Youth Edition brings youth in the ASEAN region together to use geospatial technology and information to support nations in achieving their Sustainable Development Goals (SDGs). </em>
 <br>
 <br>Day 2 of Geo Connect Asia was wrapped up with the closing plenary&nbsp;led
 by co-hosts, SLA CE, Mr Colin Low and MPA ACE,&nbsp;Mr&nbsp;David Foo,
