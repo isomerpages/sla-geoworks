@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Singapore Geospatial Festival 2023.md
       - ASEAN Geospatial Challenge 2024.md
+      - Singapore Geospatial Festival 2023.md
       - OneMap GPT Challenge.md
