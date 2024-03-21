@@ -1,5 +1,5 @@
 ---
-title: ASEAN Geospatial Challenge
+title: ASEAN Geospatial Challenge 2024
 permalink: /programmes/aseangeospatialchallenge/
 description: ""
 variant: tiptap

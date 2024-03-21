@@ -1,5 +1,5 @@
 ---
-title: Singapore Geospatial Festival
+title: Singapore Geospatial Festival 2023
 permalink: /programmes/sggeofest/
 description: ""
 variant: tiptap
