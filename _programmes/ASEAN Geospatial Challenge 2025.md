@@ -31,9 +31,9 @@ region, the challenge aims to:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Timeline.png">
 </div>
 <h1>Important Notes for Participants</h1>
-<p>View&nbsp;<a href="/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 25 Important Notes</a>
-<a href="/files/agc-24-important-notes-for-participants.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for submission guidelines, rules and regulations and judging criteria
-of the challenge.</p>
+<p>View&nbsp;<a href="/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 25 Important Notes</a>for
+submission guidelines, rules and regulations and judging criteria of the
+challenge.</p>
 <p>Each team is to submit the following documents to their respective National
 Geospatial Agency:</p>
 <table style="minWidth: 75px">
@@ -133,7 +133,8 @@ prize categories.</p>
 <p></p>
 <p></p>
 <h2>Register Here</h2>
-<p>Please register for your team via this link:&nbsp;<a href="https://go.gov.sg/agc-25-registration-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-25-registration-form</a>
+<p>Please register your team and submit your project documents via this link
+(for Singapore Teams only):&nbsp;<a href="https://go.gov.sg/agc-25-registration-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-25-registration-form</a>
 </p>
 <p>Registration and project submission ends at 6 January 2025, 23:59 SG (applicable
 only for Singapore Teams)</p>
