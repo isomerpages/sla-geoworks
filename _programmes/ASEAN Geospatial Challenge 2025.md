@@ -21,20 +21,27 @@ region, the challenge aims to:</p>
 </li>
 </ul>
 <h1>Format of Challenge</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AGC 24 Format" src="/images/agc%2024%20format.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Format.png">
 </div>
 <h1>Key Dates</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AGC 24 Timeline" src="/images/agc%2024%20timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Timeline.png">
 </div>
 <h1>Important Notes for Participants</h1>
-<p>View <a href="/files/agc-24-important-notes-for-participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 24 Important Notes</a>&nbsp;for
-submission guidelines, rules and regulations and judging criteria of the
-challenge.</p>
+<p>View&nbsp;<a href="/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 25 Important Notes</a>
+<a href="/files/agc-24-important-notes-for-participants.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for submission guidelines, rules and regulations and judging criteria
+of the challenge.</p>
 <p>Each team is to submit the following documents to their respective National
 Geospatial Agency:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +56,8 @@ Geospatial Agency:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Project Write up</p>
+<p><a href="/files/AGC2025_Project_Submission_Template_ASEAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Project Write Up</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A completed project write-up to be submitted by each participating team.</p>
@@ -74,7 +82,8 @@ only)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Declaration Form on the Originality of Work</p>
+<p><a href="/files/AGC_25_Declaration_of_Original_Work.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Form on the Originality of Work</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Duly completed and signed as a team (.doc, .docx formats only)</p>
@@ -85,7 +94,8 @@ only)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Declaration Forms on Student Identity</p>
+<p><a href="/files/AGC_25_Declaration_of_Student_Identity.pdf" rel="noopener noreferrer nofollow" target="_blank">Declaration Forms on Student Identity</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Duly completed and signed by each team member (.doc, .docx formats -</p>
@@ -122,65 +132,23 @@ prize categories.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_24_Sponsors_and_Prizes.png">
-</div>
 <h2>Register Here</h2>
-<p>Please register for your team via this link:&nbsp;<a href="https://go.gov.sg/agc24register" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc24register</a>
+<p>Please register for your team via this link:&nbsp;<a href="https://go.gov.sg/agc-25-registration-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agc-25-registration-form</a>
 </p>
-<p>Registration and project submission ends at 22nd December 2023, 23:59
-SGT</p>
-<h2>Judging Panel</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1333.png">
-</div>
+<p>Registration and project submission ends at 6 January 2025, 23:59 SG (applicable
+only for Singapore Teams)</p>
+<p></p>
 <h2>Judging Criteria</h2>
 <p>Projects will be assessed based on the following criterion:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_093016.png">
 </div>
-<p>Visit the AGC 24&nbsp;<a href="https://www.sla.gov.sg/qql/slot/u148/AGC%202024/AGC-24-Terms-and-conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>&nbsp;and&nbsp;
-<a href="https://aseangeospatial.org/asean-geospatial-challenge-2024/agc-2024-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
+<p>Visit the AGC 25&nbsp;<a href="/files/AGC_25_Terms_and_conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>&nbsp;and&nbsp;
+<a href="/files/AGC_25_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>&nbsp;for more information.</p>
 <p>For any inquiries regarding the challenge, please email&nbsp;<a href="mailto:geoworks@sla.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geoworks@sla.gov.sg</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_093115.png">
 </div>
-<h2>Winners of ASEAN Geospatial Challenge 2024</h2>
-<h4>Distinction Award</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>GajahITB (Bandung Institute of Technology, Indonesia)</p>
-</li>
-<li>
-<p>Jograph-Vi (University at Buffalo - Singapore Institute of Management,
-Singapore)</p>
-</li>
-</ol>
-<h4>Excellence Award</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>tech SaAvy (National University of Singapore, Singapore)</p>
-</li>
-<li>
-<p>STEDIA (Kasem Bundit University, Thailand)</p>
-</li>
-<li>
-<p>Sindora Explorers (University of the Philippines Los Banos, Philippines)</p>
-</li>
-</ol>
-<h4>Merit Award</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Elboyz (University of the Philippines Los Banos, Philippines)</p>
-</li>
-<li>
-<p>SeaBOT (Sriwijaya University, Indonesia)</p>
-</li>
-</ol>
-<p></p>
-<p>Watch the AGC 24 Video Montage!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FJi4ZS7qotM?si=wGVzL4MJkV899KPY"></iframe>
-</div>
+<h2></h2>
 <p></p>
 <p></p>
