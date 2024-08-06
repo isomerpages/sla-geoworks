@@ -40,10 +40,10 @@ sections:
       image: /images/geo connect asia 2024 banner.PNG
       alt: Image alt text
   - infopic:
-      title: ASEAN Geospatial Challenge (AGC) 2024
+      title: ASEAN Geospatial Challenge (AGC) 2025
       subtitle: Challenges
       id: infopic
-      description: AGC2024 brings youth in the ASEAN region together to use geospatial
+      description: AGC2025 brings youth in the ASEAN region together to use geospatial
         technology & information to support nations in achieving the Sustainable
         Development Goals.
       button: Click here to find out more
