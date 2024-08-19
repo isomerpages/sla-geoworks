@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Geo Connect Asia/.keep
-      - Geo Connect Asia 2024.md
       - ASEAN Geospatial Challenge 2025.md
       - Singapore Geospatial Festival 2023.md
       - OneMap GPT Challenge.md
