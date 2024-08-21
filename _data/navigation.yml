@@ -3,14 +3,14 @@ links:
   - title: About Us
     url: /about-us/
   - title: Programmes
-    url: /programmes/sggeofest
+    url: /programmes
     sublinks:
       - title: Singapore Geospatial Festival
         url: /programmes/sggeofest
       - title: ASEAN Geospatial Challenge
         url: /programmes/aseangeospatialchallenge
-      - title: OneMap GPT Challenge
-        url: /programmes/onemapgptchallenge
+      - title: Geo Connect Asia
+        url: /programmes/geoconnectasia
   - title: Community
     url: /community/ourpartners
     sublinks:
