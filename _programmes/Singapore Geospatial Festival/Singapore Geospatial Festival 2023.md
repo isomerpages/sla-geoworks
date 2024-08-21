@@ -1,6 +1,6 @@
 ---
 title: Singapore Geospatial Festival 2023
-permalink: /programmes/sggeofest2023/
+permalink: /programmes/sggeofest/sggeofest2023/
 description: ""
 variant: tiptap
 third_nav_title: Singapore Geospatial Festival

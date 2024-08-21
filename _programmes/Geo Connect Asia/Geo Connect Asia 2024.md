@@ -1,6 +1,6 @@
 ---
 title: Geo Connect Asia 2024
-permalink: /programmes/gca2024/
+permalink: /programmes/gca/gca2024/
 variant: tiptap
 description: ""
 third_nav_title: Geo Connect Asia
