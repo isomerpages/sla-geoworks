@@ -4,7 +4,7 @@ title: GeoWorks
 description: GeoWorks - Southeast Asia’s first geospatial industry centre
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us at Geo Connect Asia 2024 from 6 to 7 March 2024!
+notification: Join us at Singapore Geospatial Festival from 15 - 17 October 2024!
 sections:
   - hero:
       title: GeoWorks
