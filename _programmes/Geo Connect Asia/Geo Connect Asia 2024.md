@@ -3,6 +3,7 @@ title: Geo Connect Asia 2024
 permalink: /programmes/gca2024/
 variant: tiptap
 description: ""
+third_nav_title: Geo Connect Asia
 ---
 <p>The opening ceremony on 6 March 2024 was graced by<strong> Guest of Honour</strong> Mr
 Edwin Tong,&nbsp;Minister for Culture, Community and Youth and Second Minister
