@@ -29,15 +29,13 @@ sections:
       title: PROGRAMMES
       id: infobar
   - infopic:
-      title: Geo Connect Asia 2024
-      subtitle: Events
+      title: Singapore Geospatial Festival 2024
+      subtitle: Add an image and text
       id: infopic
-      description: Your gateway to meeting the world’s leading influencers in
-        geospatial technology and location intelligence solutions, right at the
-        heart of Singapore.
+      description: "Themed 'Geospatial for Good: Empowering Lives, Enriching Minds',
+        SG GeoFest is returning this year on 15 - 17 October 2024."
       button: Click here to find out more
-      url: https://www.geoconnectasia.com/
-      image: /images/geo connect asia 2024 banner.PNG
+      url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
       alt: Image alt text
   - infopic:
       title: ASEAN Geospatial Challenge (AGC) 2025
@@ -51,15 +49,16 @@ sections:
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
-      title: OneMap GPT Challenge
-      subtitle: Challenges
+      title: Geo Connect Asia 2024
+      subtitle: Events
       id: infopic
-      description: SLA is looking for a prototype solution leveraging Generative AI
-        technologies that can strengthen the relevance and appeal of OneMap.
-      button: click here to find out more
-      image: /images/onemap gpt challenge banner.PNG
+      description: Your gateway to meeting the world’s leading influencers in
+        geospatial technology and location intelligence solutions, right at the
+        heart of Singapore.
+      button: Click here to find out more
+      url: https://www.geoconnectasia.com/
+      image: /images/geo connect asia 2024 banner.PNG
       alt: Image alt text
-      url: /programmes/onemapgptchallenge
   - infobar:
       title: SLA PRODUCTS
       id: infobar
