@@ -30,7 +30,7 @@ sections:
       id: infobar
   - infopic:
       title: Singapore Geospatial Festival 2024
-      subtitle: Add an image and text
+      subtitle: PROGRAMMES
       id: infopic
       description: "Themed 'Geospatial for Good: Empowering Lives, Enriching Minds',
         SG GeoFest is returning this year on 15 - 17 October 2024."
