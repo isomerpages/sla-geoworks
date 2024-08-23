@@ -18,7 +18,7 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: /programmes/sggeofest/
+          url: /programme/sggeofest/sggeofest2024
         - title: Community
           description: Partners and Collaborators
           url: /community/ourpartners
