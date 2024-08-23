@@ -36,7 +36,7 @@ sections:
         SG GeoFest is returning this year on 15 - 17 October 2024."
       button: Click here to find out more
       url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
-      alt: Image alt text
+      alt: More details coming soon!
   - infopic:
       title: ASEAN Geospatial Challenge (AGC) 2025
       subtitle: Challenges
