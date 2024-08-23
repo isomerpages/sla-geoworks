@@ -37,6 +37,7 @@ sections:
       button: Click here to find out more
       url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
       alt: More details coming soon!
+      image: /images/sggeofest_23_group_photo.png
   - infopic:
       title: ASEAN Geospatial Challenge (AGC) 2025
       subtitle: Challenges
