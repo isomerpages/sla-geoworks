@@ -15,8 +15,5 @@ education.</p>
 and private sectors as well as the community-at-large) for talks, panel
 discussions, workshops and co-located activities promoting the innovative
 use of geospatial information and technology.</p>
-<p>Keep a lookout on this page for the programme and registration details!</p>
 <p>Download the programme here: <a href="/files/SG_GeoFest_2024_Programme.pdf" rel="noopener nofollow" target="_blank">SG GeoFest 2024 Prog</a>
-</p>
-<p>Register via: <a href="https://go.gov.sg/sggeofest2024-reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sggeofest2024-reg</a>
 </p>
