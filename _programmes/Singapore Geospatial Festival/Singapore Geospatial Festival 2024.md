@@ -18,7 +18,8 @@ workshops and co-located activities.</p>
 <p>Register via: <a href="https://go.gov.sg/sggeofest2024-reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sggeofest2024-reg</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_GeoFest_2024_Programme_at_a_Glance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_GeoFest_2024_Programme_at_a_Glance_V2.png">
 </div>
 <p></p>
