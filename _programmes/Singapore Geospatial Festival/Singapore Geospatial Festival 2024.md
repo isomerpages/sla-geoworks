@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Singapore Geospatial Festival
 ---
-<p><strong>Organized by the Singapore Land Authority (SLA), with the Maritime and Port Authority of Singapore (MPA) as a Supporting Partner, the Singapore Geospatial Festival (SG GeoFest) returns this year from 15–17 October 2024.</strong>
+<p><strong>Organised by the Singapore Land Authority (SLA), with the Maritime and Port Authority of Singapore (MPA) as a Supporting Partner, the Singapore Geospatial Festival (SG GeoFest) returns this year from 15–17 October 2024.</strong>
 </p>
 <p>The theme for this year, “<strong><em>Geospatial for Good: Enriching Minds, Empowering Lives</em></strong>”,
 highlights the transformative impact of geospatial technology on social
