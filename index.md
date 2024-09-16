@@ -50,7 +50,7 @@ sections:
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
-      title: Geo Connect Asia 2024
+      title: Geo Connect Asia 2025
       subtitle: Events
       id: infopic
       description: Your gateway to meeting the world’s leading influencers in
@@ -58,7 +58,7 @@ sections:
         heart of Singapore.
       button: Click here to find out more
       url: https://www.geoconnectasia.com/
-      image: /images/geo connect asia 2024 banner.PNG
+      image: /images/GCA_SLA_Banner___1280_x_720_px.png
       alt: Image alt text
   - infobar:
       title: SLA PRODUCTS
