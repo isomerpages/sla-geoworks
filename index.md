@@ -50,7 +50,7 @@ sections:
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
-      title: Geo Connect Asia 2024
+      title: Geo Connect Asia 2025
       subtitle: Events
       id: infopic
       description: Your gateway to meeting the world’s leading influencers in
