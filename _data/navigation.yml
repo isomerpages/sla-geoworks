@@ -19,7 +19,7 @@ links:
       - title: Member Products
         url: /community/memberproducts
   - title: SLA Products
-    url: /sla-products/onemap
+    url: /sla-products/
     sublinks:
       - title: OneMap
         url: /sla-products/onemap/
