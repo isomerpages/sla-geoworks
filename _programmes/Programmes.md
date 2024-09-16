@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /events/
+permalink: /programmes/
 variant: tiptap
 description: ""
 ---
