@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Programmes.md
       - Singapore Geospatial Festival/Singapore Geospatial Festival 2024.md
       - Singapore Geospatial Festival/Singapore Geospatial Festival 2023.md
       - Singapore Geospatial Festival/.keep
