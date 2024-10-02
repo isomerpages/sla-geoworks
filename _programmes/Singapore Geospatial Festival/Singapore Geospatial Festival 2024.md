@@ -13,13 +13,13 @@ good and youth education.</p>
 <p>The event will bring together the geospatial community (public and private
 sectors as well as the community-at-large) for talks, panel discussions,
 workshops and co-located activities.</p>
-<p>Download the programme here (as at 27 Sep 2024): <a href="/files/SG_GeoFest_2024_Programme__27sep24_.pdf" rel="noopener nofollow" target="_blank">Singapore Geospatial Festival 2024 Programme</a>
+<p>Download the programme here (as at 2 Oct 2024): <a href="/files/SG_GeoFest_2024_Programme__as_at_2_Oct_24_.pdf" rel="noopener nofollow" target="_blank">Singapore Geospatial Festival 2024 Programme</a>
 </p>
 <p>Register via: <a href="https://go.gov.sg/sggeofest2024-reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sggeofest2024-reg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog_at_a_glance__25sep24_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog_at_a_glance__2Oct24_.jpg">
 </div>
 <p></p>
 <p></p>
