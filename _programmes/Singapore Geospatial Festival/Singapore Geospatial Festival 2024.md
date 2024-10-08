@@ -19,7 +19,7 @@ workshops and co-located activities.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog_at_a_glance__2Oct24_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prog_at_a_glance__4Oct24_.jpg">
 </div>
 <p></p>
 <p></p>
