@@ -16,8 +16,9 @@ workshops and co-located activities.</p>
 <p>The 3-day festival from 15 - 17 October was attended by close to 700 participants.</p>
 <h2>Opening Session</h2>
 <p>The opening session of SG GeoFest 2024 was kicked off with the Opening
-Address by Mr Yeoh Oon Jin, Chairman of SLA. Mr Yeoh addressed the progress
-of Singapore Geospatial Masterplan which was well underway.</p>
+Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh highlighted
+the significant progress of the Singapore Geosatial Masterplan, which is
+well o</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07825.jpg">
 </div>
