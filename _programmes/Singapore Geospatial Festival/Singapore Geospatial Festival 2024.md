@@ -18,7 +18,9 @@ workshops and co-located activities.</p>
 <p>The opening session of SG GeoFest 2024 was kicked off with the Opening
 Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh highlighted
 the significant progress of the Singapore Geospatial Masterplan, which
-is well underway.</p>
+is well underway. The masterplan embodies the combined commitment of Singapore's
+land and sea agencies to accelerate geospatial usage and development over
+the next decade.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07825.jpg">
 </div>
