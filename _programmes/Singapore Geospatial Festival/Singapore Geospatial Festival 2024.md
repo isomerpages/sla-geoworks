@@ -16,11 +16,13 @@ workshops and co-located activities.</p>
 <p>The 3-day festival from 15 - 17 October was attended by close to 700 participants.</p>
 <h2>Opening Session</h2>
 <p>The opening session of SG GeoFest 2024 was kicked off with the Opening
-Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh highlighted
-the significant progress of the Singapore Geospatial Masterplan, which
-is well underway. Spearheaded by SLA and MPA, the masterplan embodies the
-combined commitment of Singapore's land and sea agencies to accelerate
-geospatial usage and development over the next decade.</p>
+Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh outlined
+the refreshed Singapore Geospatial Master Plan and its 3 key pillars -
+Mainstreaming, Deepening Capabilities, and Going Global. He highlighted
+initiatives such as social prescribing with SingHealth Community Hospitals,
+Barrier-Free Access efforts with OneMap, and projects with IRAS and MPA
+on property tax and climate mitigation as examples of utilising Geospatial
+for Good.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07825.jpg">
 </div>
@@ -52,9 +54,9 @@ University (SMU), who received their awards at SG GeoFest 2024!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMU.jpg">
 </div>
-<p>The winning team from SMU showcased their project centered on the challenge
-statement 'Using OneMap to suggest a walking trail based on one's health
-goals'.</p>
+<p>The winning team from SMU presented their app prototype, Walk Eaze, which
+empowers hikers and walkers of all fitness levels to create fresh, exciting
+routes based on terrain, inclines, and distance - making every walk unique.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07939.jpg">
 </div>
