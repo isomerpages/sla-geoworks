@@ -39,11 +39,17 @@ and standards in Singapore.</p>
 Innovation Challenge is a competition that challenges students to create
 technological initiatives and geospatial solutions to address healthcare
 and social issues in Singapore.</p>
-<p>Congratulations to all the 3 participating teams from the Nanyang Poly
+<p>Congratulations to all the 3 participating teams from the Nanyang Polytechnic
 (NYP), Singapore Institute of Management (SIM) and Singapore Management
 University (SMU)!</p>
 <p>The winning team from SMU also presented their project based on the challenge
 statement 'Using OneMap to suggest a walking trail based on one's health
 goals'.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYP.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIM.jpg">
+</div>
 <p></p>
