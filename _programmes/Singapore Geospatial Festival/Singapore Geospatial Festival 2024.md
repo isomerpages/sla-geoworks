@@ -74,5 +74,8 @@ deeper engagement in Singapore, highlighting the country's unique commitment
 to ensuring everyone has access to data that enhances their lives. This
 has culminated in the OGC SG Forum held in the afternoon to learn from
 our respective global counterparts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08038.jpg">
+</div>
 <p></p>
 <p></p>
