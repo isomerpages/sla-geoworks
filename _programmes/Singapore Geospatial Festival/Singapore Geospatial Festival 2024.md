@@ -36,15 +36,11 @@ and standards in Singapore.</p>
 </div>
 <h2>AWS-SLA Geospatial Innovation Challenge</h2>
 <p>The Amazon Web Services (AWS) - Singapore Land Authority (SLA) Geospatial
-Innovation Challenge is a competition that challenges students to create
-technological initiatives and geospatial solutions to address healthcare
-and social issues in Singapore.</p>
+Innovation Challenge invites students to create technological initiatives
+and geospatial solutions to address healthcare and social issues in Singapore.</p>
 <p>Congratulations to all the 3 participating teams from the Nanyang Polytechnic
 (NYP), Singapore Institute of Management (SIM) and Singapore Management
-University (SMU), who received their award at SG GeoFest 2024!</p>
-<p>The winning team from SMU also presented their project based on the challenge
-statement 'Using OneMap to suggest a walking trail based on one's health
-goals'.</p>
+University (SMU), who received their awards at SG GeoFest 2024!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYP.jpg">
 </div>
@@ -56,9 +52,18 @@ goals'.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMU.jpg">
 </div>
-<p></p>
+<p>The winning team from SMU showcased their project centered on the challenge
+statement 'Using OneMap to suggest a walking trail based on one's health
+goals'.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07939.jpg">
 </div>
+<h2>Industry Keynotes</h2>
+<p>We were honored to welcome Mr David Foo, Assistant Chief Executive (Operations
+and Ops-Tech) / Chief Data Officer from the Maritime and Port Authority
+of Singapore (MPA), as he delivered the first industry keynote. His keynote
+highlighted the crucial role of marine geospatial information in safeguarding
+our coastlines and environment, while promoting the growth of our maritime
+industry in a safe, sustainable, and efficient manner.</p>
 <p></p>
 <p></p>
