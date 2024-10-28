@@ -65,5 +65,10 @@ of Singapore (MPA), as he delivered the first industry keynote. His keynote
 highlighted the crucial role of marine geospatial information in safeguarding
 our coastlines and environment, while promoting the growth of our maritime
 industry in a safe, sustainable, and efficient manner.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07976.jpg">
+</div>
+<p>The second industry keynote delivered by Mr Scott Simmons, Chief Standards
+Officer of Open Geospatial Consortium (OGC) addressed the importance of
+geospatial open standards.</p>
 <p></p>
