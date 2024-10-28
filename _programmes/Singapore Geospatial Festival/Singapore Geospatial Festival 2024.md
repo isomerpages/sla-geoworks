@@ -27,12 +27,9 @@ for Good.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07825.jpg">
 </div>
 <h2>MOU Signing with Open Geospatial Consortium (OGC)</h2>
-<p>SLA is excited to announce the signing of a Memorandum of Understanding
-with OGC during the opening session of SG GeoFest. This MOU marks a new
-chapter in the collaboration between SLA and OGC. Together, we will drive
-community and industry engagement, as well as explore technical partnerships
-through workshops and initiatives designed to enhance geospatial capabilities
-and standards in Singapore.</p>
+<p>SLA signed a Memorandum of Understanding with OGC during the opening session
+of SG GeoFest. This MOU aims to strengthen collaboration through forums,
+workshops, and training sessions to advance geospatial knowledge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07844_Enhanced_NR.jpg">
 </div>
@@ -65,12 +62,17 @@ routes based on terrain, inclines, and distance - making every walk unique.</p>
 and Ops-Tech) / Chief Data Officer from the Maritime and Port Authority
 of Singapore (MPA), as he delivered the first industry keynote. His keynote
 highlighted the crucial role of marine geospatial information in safeguarding
-our coastlines and environment, while promoting the growth of our maritime
-industry in a safe, sustainable, and efficient manner.</p>
+our coastlines and environment, and that MPA and SLA are expanding the
+SiReNT GNSS network to improve monitoring of vertical land motion, crucial
+for accurate sea-level rise projections.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07976.jpg">
 </div>
 <p>The second industry keynote delivered by Mr Scott Simmons, Chief Standards
-Officer of Open Geospatial Consortium (OGC) addressed the importance of
-geospatial open standards.</p>
+Officer of Open Geospatial Consortium (OGC) recounted OGC's journey towards
+deeper engagement in Singapore, highlighting the country's unique commitment
+to ensuring everyone has access to data that enhances their lives. This
+has culminated in the OGC SG Forum held in the afternoon to learn from
+our respective global counterparts.</p>
+<p></p>
 <p></p>
