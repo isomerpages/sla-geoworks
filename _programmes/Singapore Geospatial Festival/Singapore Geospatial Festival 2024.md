@@ -35,5 +35,15 @@ and standards in Singapore.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07844_Enhanced_NR.jpg">
 </div>
 <h2>AWS-SLA Geospatial Innovation Challenge</h2>
-<p>The Amazon Web Services (AWS)</p>
+<p>The Amazon Web Services (AWS) - Singapore Land Authority (SLA) Geospatial
+Innovation Challenge is a competition that challenges students to create
+technological initiatives and geospatial solutions to address healthcare
+and social issues in Singapore.</p>
+<p>Congratulations to all the 3 participating teams from the Nanyang Poly
+(NYP), Singapore Institute of Management (SIM) and Singapore Management
+University (SMU)!</p>
+<p>The winning team from SMU also presented their project based on the challenge
+statement 'Using OneMap to suggest a walking trail based on one's health
+goals'.</p>
+<p></p>
 <p></p>
