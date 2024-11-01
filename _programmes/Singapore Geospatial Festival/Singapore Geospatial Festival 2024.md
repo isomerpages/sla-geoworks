@@ -130,5 +130,11 @@ environment for its residents.</p>
 <p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstratng how
 geospatial AI and machine learning are being used today to create models
 that help mitigate climate risks.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08321.jpg">
+</div>
+<p>Ms Sharon Gin, Senior Manager, Solution Engineering from ESRI Singapore
+highlighted the impact of the Sustainable Development Goals (SGDs) on various
+organisations and demonstrated how GIS has been crucial in advancing these
+goals.</p>
 <p></p>
