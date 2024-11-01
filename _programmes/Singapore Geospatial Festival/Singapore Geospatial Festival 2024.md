@@ -78,7 +78,11 @@ our respective global counterparts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08038.jpg">
 </div>
 <h2>Exhibition</h2>
-<p>Over at the exhibition hall, e</p>
+<p>Over at the exhibition hall, Students from TP, NUS, SMU and SIM showcased
+projects tackling pressing challenges like sea-level rise and food wastage.
+In particular, the NUS team delved into spatial data processing, GIS programming
+and database design to evaluate the cooling effects of vegetation and water
+bodies on urban heat.</p>
 <p>Together, these young talents are inspiring a smarter, greener future
 with geospatial innovation!</p>
 <p></p>
