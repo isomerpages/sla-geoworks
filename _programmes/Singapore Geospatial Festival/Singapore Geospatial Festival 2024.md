@@ -137,4 +137,22 @@ that help mitigate climate risks.</p>
 highlighted the impact of the Sustainable Development Goals (SGDs) on various
 organisations and demonstrated how GIS has been crucial in advancing these
 goals.</p>
+<h2>OGC SG Forum</h2>
+<p>Jointly organised by OGC and SLA, this initial meeting provided insights
+into geospatial standards in Singapore, focusing on land-marine interoperability,
+digital twins, barrier-free accessibility, and indoor mapping.</p>
+<p></p>
+<h2>Unlocking Insights with Aerial Mapping: Tools and Techniques</h2>
+<p>In this workshop conducted by the Survey &amp; Geomatics team from SLA,
+participants learnt to differentiate between imagery and LiDAR sensors,
+and how aerial mapping data is collected and processed.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08285.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08615.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
