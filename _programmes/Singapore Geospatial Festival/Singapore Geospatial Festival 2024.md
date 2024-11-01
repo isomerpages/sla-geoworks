@@ -96,6 +96,17 @@ with geospatial innovation!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08273.jpg">
 </div>
+<h2>Geospatial for Good Presentations</h2>
+<p>In line with the theme 'Geospatial for Good: Enriching Mind, Empowering
+Lives', we were pleased to host speakers from SMU, SingHealth Community
+Hospitals, AWS, <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> and
+ESRI, who shared insights on leveraging geospatial technology to create
+positive societal impact.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_46.jpg">
+</div>
+<p>Dr. Kam Tin Seong Associate Professor of Information Systems (Practice),
+School of Computing and Information Systems from SMU</p>
 <p></p>
 <p></p>
 <p></p>
