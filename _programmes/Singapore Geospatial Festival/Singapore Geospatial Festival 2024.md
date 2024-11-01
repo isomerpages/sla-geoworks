@@ -113,8 +113,16 @@ good in the mentoring of future management practitioners.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_50.jpg">
 </div>
 <p>Ms Clara Poh, Senior Manager, Office of Community Engagement and Education
-from SingHealth Community Hospitals sharing insights on the Living Asset
+from SingHealth Community Hospitals provided insights on the Living Asset
 Map project and how it significantly enhances the delivery of integrated
 care.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_65.jpg">
+</div>
+<p>Mr Sapan Kumar, AWS Smart Cities Leader, ASEAN from Amazon Web Services
+discussed how geospatial data and the application of AI/ML technologies
+on the AWS cloud contributed to the establishment of low emission zones
+in Barcelona, resulting in improved air quality and a healthier, more sustainable
+environment for its residents.</p>
 <p></p>
 <p></p>
