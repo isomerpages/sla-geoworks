@@ -124,5 +124,11 @@ discussed how geospatial data and the application of AI/ML technologies
 on the AWS cloud contributed to the establishment of low emission zones
 in Barcelona, resulting in improved air quality and a healthier, more sustainable
 environment for its residents.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08301.jpg">
+</div>
+<p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstratng how
+geospatial AI and machine learning are being used today to create models
+that help mitigate climate risks.</p>
 <p></p>
 <p></p>
