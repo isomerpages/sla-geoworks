@@ -109,6 +109,12 @@ School of Computing and Information Systems from SMU shared actionable
 insights and best practices for instilling the values of social awareness
 and ensuring our geospatial analytics initiatives genuinely serve the public
 good in the mentoring of future management practitioners.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_50.jpg">
+</div>
+<p>Ms Clara Poh, Senior Manager, Office of Community Engagement and Education
+from SingHealth Community Hospitals sharing insights on the Living Asset
+Map project and how it significantly enhances the delivery of integrated
+care.</p>
 <p></p>
 <p></p>
