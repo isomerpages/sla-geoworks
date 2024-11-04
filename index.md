@@ -60,6 +60,7 @@ sections:
       button: Click here to find out more
       url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
       image: /images/DSC07844_Enhanced_NR.jpg
+      alt: Click here to find out more!
   - infobar:
       title: SLA PRODUCTS
       id: infobar
