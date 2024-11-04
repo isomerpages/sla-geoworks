@@ -13,7 +13,7 @@ social good and youth education.</p>
 <p>The event brought together the geospatial community (public and private
 sectors as well as the community-at-large) for talks, panel discussions,
 workshops and co-located activities.</p>
-<p>The 3-day festival from 15 - 17 October was attended by close to 700 participants.</p>
+<p>The 3-day festival from 15 - 17 October was attended by close to 650 participants.</p>
 <h2>Opening Session</h2>
 <p>The opening session of SG GeoFest 2024 was kicked off with the Opening
 Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh outlined
@@ -127,8 +127,8 @@ environment for its residents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08301.jpg">
 </div>
-<p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstratng how
-geospatial AI and machine learning are being used today to create models
+<p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstrating
+how geospatial AI and machine learning are being used today to create models
 that help mitigate climate risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08321.jpg">
