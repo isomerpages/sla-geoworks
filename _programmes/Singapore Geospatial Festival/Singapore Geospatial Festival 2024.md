@@ -192,7 +192,7 @@ on geospace-sea and multi-domain capabilities.</p>
 <p>SG GeoFest 2024 wrapped up with a scenic cycling ride, featuring Singapore's
 leading active mobility app, MOVE&amp;JOY. This app leverages OneMap and
 location-based services to support active mobility users and local businesses.</p>
-<h2>Supported By</h2>
+<h2>SG GeoFest 2024 Supported By</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_113639.jpg">
