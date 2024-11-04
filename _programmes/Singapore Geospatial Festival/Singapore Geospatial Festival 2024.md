@@ -189,4 +189,6 @@ Singapore (MPA) brought students and reps from the IHLs on a field trip
 to understand hydrographic and maritime drone operations. They also held
 a workshop to discuss use cases from marine geospatial data, with presentations
 on geospace-sea and multi-domain capabilities.</p>
-<p></p>
+<p>SG GeoFest 2024 wrapped up with a scenic cycling ride, featuring Singapore's
+leading active mobility app, MOVE&amp;JOY. This app leverages OneMap and
+location-based services to support active mobility users and local businesses.</p>
