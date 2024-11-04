@@ -29,15 +29,16 @@ sections:
       title: PROGRAMMES
       id: infobar
   - infopic:
-      title: Singapore Geospatial Festival 2024
-      subtitle: PROGRAMMES
+      title: Geo Connect Asia 2025
+      subtitle: Events
       id: infopic
-      description: "Themed 'Geospatial for Good: Empowering Lives, Enriching Minds',
-        SG GeoFest is returning this year on 15 - 17 October 2024."
+      description: Your gateway to meeting the world’s leading influencers in
+        geospatial technology and location intelligence solutions, right at the
+        heart of Singapore.
       button: Click here to find out more
-      url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
-      alt: More details coming soon!
-      image: /images/sggeofest_23_group_photo.png
+      url: https://www.geoconnectasia.com/
+      image: /images/GCA_SLA_Banner___1280_x_720_px.png
+      alt: Image alt text
   - infopic:
       title: ASEAN Geospatial Challenge (AGC) 2025
       subtitle: Challenges
@@ -50,16 +51,15 @@ sections:
       alt: Image alt text
       image: /images/AGC_banner.png
   - infopic:
-      title: Geo Connect Asia 2025
-      subtitle: Events
+      title: Singapore Geospatial Festival 2024
+      subtitle: PROGRAMMES
       id: infopic
-      description: Your gateway to meeting the world’s leading influencers in
-        geospatial technology and location intelligence solutions, right at the
-        heart of Singapore.
+      description: "Themed 'Geospatial for Good: Empowering Lives, Enriching Minds',
+        the 3-day festival from 15 - 17 Oct was attended by close to 650
+        participants."
       button: Click here to find out more
-      url: https://www.geoconnectasia.com/
-      image: /images/GCA_SLA_Banner___1280_x_720_px.png
-      alt: Image alt text
+      url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
+      image: /images/DSC07844_Enhanced_NR.jpg
   - infobar:
       title: SLA PRODUCTS
       id: infobar
