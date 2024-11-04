@@ -181,3 +181,12 @@ featuring Ms Ku Geok Boon, CEO of SG Enable, Mr Scott Dunn, Vice President
 moderated by Mr Ng Siau Yong, Director of GeoSpatial &amp; Data / Chief
 Data Officer of SLA.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_112944.jpg">
+</div>
+<p>SG GeoFest 2024 supporting partner, the Maritime Port and Authority of
+Singapore (MPA) brought students and reps from the IHLs on a field trip
+to understand hydrographic and maritime drone operations. They also held
+a workshop to discuss use cases from marine geospatial data, with presentations
+on geospace-sea and multi-domain capabilities.</p>
+<p></p>
