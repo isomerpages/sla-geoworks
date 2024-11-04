@@ -176,10 +176,10 @@ Shiny'.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
 </div>
 <p>At the Urban Land Institute (ULI) SG - SLA Forum, geospatial technologies
-took centre stage in shaping sustainable urban development. SLA Chief Executive
+took centre stage in shaping sustainable urban development. SLA Chief Executive,
 Mr Colin Low opened the forum, setting the stage for a distinguished panel
 featuring Ms Ku Geok Boon, CEO of SG Enable, Mr Scott Dunn, Vice President
-(Asia) of AECOM, Professor Chew Hung Chang of National Institute of Education,
+(Asia) of AECOM, Professor Chang Hung Chew of National Institute of Education,
 moderated by Mr Ng Siau Yong, Director of GeoSpatial &amp; Data / Chief
 Data Officer of SLA.</p>
 <div class="isomer-image-wrapper">
