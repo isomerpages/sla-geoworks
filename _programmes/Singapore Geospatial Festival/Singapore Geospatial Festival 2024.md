@@ -145,7 +145,11 @@ goals.</p>
 into geospatial standards in Singapore, focusing on land-marine interoperability,
 digital twins, barrier-free accessibility, and indoor mapping.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_114514.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OGC_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OGC_2.jpg">
 </div>
 <h2>Unlocking Insights with Aerial Mapping: Tools and Techniques</h2>
 <p>In this workshop conducted by the Survey &amp; Geomatics team from SLA,
