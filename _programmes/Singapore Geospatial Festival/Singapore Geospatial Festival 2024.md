@@ -33,6 +33,9 @@ workshops, and training sessions to advance geospatial knowledge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07844_Enhanced_NR.jpg">
 </div>
+<p>From right: Mr Sin Lye Chong, Assistant Chief Executive (GeoSpatial &amp;
+Engagement) &amp; Chief Sustainability Officer of SLA | Mr Yeoh Oon Jin,
+Chairman, SLA | Mr Scott Simmons, Chief Standards Officer, OGC</p>
 <h2>AWS-SLA Geospatial Innovation Challenge</h2>
 <p>The Amazon Web Services (AWS) - Singapore Land Authority (SLA) Geospatial
 Innovation Challenge invites students to create technological initiatives
