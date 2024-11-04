@@ -107,7 +107,7 @@ societal impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_46.jpg">
 </div>
-<p>Dr. Kam Tin Seong Associate Professor of Information Systems (Practice),
+<p>Dr. Kam Tin Seong, Associate Professor of Information Systems (Practice),
 School of Computing and Information Systems from SMU shared actionable
 insights and best practices for instilling the values of social awareness
 and ensuring our geospatial analytics initiatives genuinely serve the public
