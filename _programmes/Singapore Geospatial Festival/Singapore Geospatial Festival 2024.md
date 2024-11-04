@@ -137,7 +137,7 @@ that help mitigate climate risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08321.jpg">
 </div>
 <p>Ms Sharon Gin, Senior Manager, Solution Engineering from ESRI Singapore
-highlighted the impact of the Sustainable Development Goals (SGDs) on various
+highlighted the impact of the Sustainable Development Goals (SDGs) on various
 organisations and demonstrated how GIS has been crucial in advancing these
 goals.</p>
 <h2>OGC SG Forum</h2>
