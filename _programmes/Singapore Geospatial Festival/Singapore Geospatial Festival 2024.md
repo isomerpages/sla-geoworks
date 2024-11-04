@@ -13,10 +13,10 @@ social good and youth education.</p>
 <p>The event brought together the geospatial community (public and private
 sectors as well as the community-at-large) for talks, panel discussions,
 workshops and co-located activities.</p>
-<p>The 3-day festival from 15 - 17 October was attended by close to 700 participants.</p>
+<p>The 3-day festival from 15 - 17 October was attended by close to 650 participants.</p>
 <h2>Opening Session</h2>
 <p>The opening session of SG GeoFest 2024 was kicked off with the Opening
-Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr. Yeoh outlined
+Address by Mr Yeoh Oon Jin, Chairman of SLA. In his remarks, Mr Yeoh outlined
 the refreshed Singapore Geospatial Master Plan and its 3 key pillars -
 Mainstreaming, Deepening Capabilities, and Going Global. He highlighted
 initiatives such as social prescribing with SingHealth Community Hospitals,
@@ -33,6 +33,9 @@ workshops, and training sessions to advance geospatial knowledge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07844_Enhanced_NR.jpg">
 </div>
+<p>From right: Mr Sin Lye Chong, Assistant Chief Executive (GeoSpatial &amp;
+Engagement) &amp; Chief Sustainability Officer of SLA | Mr Yeoh Oon Jin,
+Chairman, SLA | Mr Scott Simmons, Chief Standards Officer, OGC</p>
 <h2>AWS-SLA Geospatial Innovation Challenge</h2>
 <p>The Amazon Web Services (AWS) - Singapore Land Authority (SLA) Geospatial
 Innovation Challenge invites students to create technological initiatives
@@ -104,7 +107,7 @@ societal impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GeoFest2024_46.jpg">
 </div>
-<p>Dr. Kam Tin Seong Associate Professor of Information Systems (Practice),
+<p>Dr. Kam Tin Seong, Associate Professor of Information Systems (Practice),
 School of Computing and Information Systems from SMU shared actionable
 insights and best practices for instilling the values of social awareness
 and ensuring our geospatial analytics initiatives genuinely serve the public
@@ -127,14 +130,14 @@ environment for its residents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08301.jpg">
 </div>
-<p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstratng how
-geospatial AI and machine learning are being used today to create models
+<p>Mr Johann Wah, Co-Founder from <a href="http://Nika.eco" rel="noopener noreferrer nofollow" target="_blank">Nika.eco</a> examined case studies demonstrating
+how geospatial AI and machine learning are being used today to create models
 that help mitigate climate risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08321.jpg">
 </div>
 <p>Ms Sharon Gin, Senior Manager, Solution Engineering from ESRI Singapore
-highlighted the impact of the Sustainable Development Goals (SGDs) on various
+highlighted the impact of the Sustainable Development Goals (SDGs) on various
 organisations and demonstrated how GIS has been crucial in advancing these
 goals.</p>
 <h2>OGC SG Forum</h2>
@@ -142,7 +145,11 @@ goals.</p>
 into geospatial standards in Singapore, focusing on land-marine interoperability,
 digital twins, barrier-free accessibility, and indoor mapping.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_114514.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OGC_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OGC_2.jpg">
 </div>
 <h2>Unlocking Insights with Aerial Mapping: Tools and Techniques</h2>
 <p>In this workshop conducted by the Survey &amp; Geomatics team from SLA,
@@ -173,10 +180,10 @@ Shiny'.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
 </div>
 <p>At the Urban Land Institute (ULI) SG - SLA Forum, geospatial technologies
-took centre stage in shaping sustainable urban development. SLA Chief Executive
+took centre stage in shaping sustainable urban development. SLA Chief Executive,
 Mr Colin Low opened the forum, setting the stage for a distinguished panel
 featuring Ms Ku Geok Boon, CEO of SG Enable, Mr Scott Dunn, Vice President
-(Asia) of AECOM, Professor Chew Hung Chang of National Institute of Education,
+(Asia) of AECOM, Professor Chang Hung Chew of National Institute of Education,
 moderated by Mr Ng Siau Yong, Director of GeoSpatial &amp; Data / Chief
 Data Officer of SLA.</p>
 <div class="isomer-image-wrapper">
