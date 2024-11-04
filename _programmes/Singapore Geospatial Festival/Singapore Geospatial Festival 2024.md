@@ -154,5 +154,18 @@ and how aerial mapping data is collected and processed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC08615.jpg">
 </div>
 <p></p>
-<p></p>
+<h2>SG GeoFest Day 2 &amp; 3</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101351.jpg">
+</div>
+<p>Speakers from Amazon Web Services (AWS), Hexagon &amp; Leica Geosystems
+and Trimble Inc. spoke on how they utilise geospatial data and technology
+for social good.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
+</div>
+<p>Concurrently, SLA facilitators conducted a GeoAdventure activity where
+the participants learnt about geospatial technology and engaged in an outdoor
+data collection activity. Prof Kam from SMU also conducted a hands-on workshop
+on 'Building Web-Enabled Geospatial Analytics Applications with Shiny'.</p>
 <p></p>
