@@ -141,7 +141,9 @@ goals.</p>
 <p>Jointly organised by OGC and SLA, this initial meeting provided insights
 into geospatial standards in Singapore, focusing on land-marine interoperability,
 digital twins, barrier-free accessibility, and indoor mapping.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_114514.jpg">
+</div>
 <h2>Unlocking Insights with Aerial Mapping: Tools and Techniques</h2>
 <p>In this workshop conducted by the Survey &amp; Geomatics team from SLA,
 participants learnt to differentiate between imagery and LiDAR sensors,
@@ -155,14 +157,11 @@ and how aerial mapping data is collected and processed.</p>
 </div>
 <p></p>
 <h2>SG GeoFest Day 2 &amp; 3</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101351.jpg">
-</div>
 <p>Speakers from Amazon Web Services (AWS), Hexagon &amp; Leica Geosystems
 and Trimble Inc. spoke on how they utilise geospatial data and technology
 for social good.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101351.jpg">
 </div>
 <p>Concurrently, SLA facilitators conducted a GeoAdventure activity where
 the participants explored how geospatial technology empowers our daily
@@ -171,7 +170,7 @@ and understand our environment. Prof Kam from SMU also conducted a hands-on
 workshop on 'Building Web-Enabled Geospatial Analytics Applications with
 Shiny'.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_111047.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
 </div>
 <p>At the Urban Land Institute (ULI) SG - SLA Forum, geospatial technologies
 took centre stage in shaping sustainable urban development. SLA Chief Executive
@@ -180,9 +179,8 @@ featuring Ms Ku Geok Boon, CEO of SG Enable, Mr Scott Dunn, Vice President
 (Asia) of AECOM, Professor Chew Hung Chang of National Institute of Education,
 moderated by Mr Ng Siau Yong, Director of GeoSpatial &amp; Data / Chief
 Data Officer of SLA.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_112944.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_111047.jpg">
 </div>
 <p>SG GeoFest 2024 supporting partner, the Maritime Port and Authority of
 Singapore (MPA) brought students and reps from the IHLs on a field trip
@@ -192,6 +190,9 @@ on geospace-sea and multi-domain capabilities.</p>
 <p>SG GeoFest 2024 wrapped up with a scenic cycling ride, featuring Singapore's
 leading active mobility app, MOVE&amp;JOY. This app leverages OneMap and
 location-based services to support active mobility users and local businesses.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_112944.jpg">
+</div>
 <h2>SG GeoFest 2024 Supported By</h2>
 <p></p>
 <div class="isomer-image-wrapper">
