@@ -165,7 +165,9 @@ for social good.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_04_101602.jpg">
 </div>
 <p>Concurrently, SLA facilitators conducted a GeoAdventure activity where
-the participants learnt about geospatial technology and engaged in an outdoor
-data collection activity. Prof Kam from SMU also conducted a hands-on workshop
-on 'Building Web-Enabled Geospatial Analytics Applications with Shiny'.</p>
+the participants explored how geospatial technology empowers our daily
+lives, with hands-on activities revealing how it shapes the way we navigate
+and understand our environment. Prof Kam from SMU also conducted a hands-on
+workshop on 'Building Web-Enabled Geospatial Analytics Applications with
+Shiny'.</p>
 <p></p>
