@@ -31,7 +31,7 @@ region, the challenge aims to:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Timeline.png">
 </div>
 <h1>Important Notes for Participants</h1>
-<p>View&nbsp;<a href="/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 25 Important Notes</a>for
+<p>View&nbsp;<a href="/files/AGC_25_Important_Notes_for_Participants.pdf" rel="noopener noreferrer nofollow" target="_blank">AGC 25 Important Notes </a>for
 submission guidelines, rules and regulations and judging criteria of the
 challenge.</p>
 <p>Each team is to submit the following documents to their respective National
@@ -150,6 +150,15 @@ only for Singapore Teams)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_093115.png">
 </div>
-<h2></h2>
+<h2>Judges</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Judges.png">
+</div>
+<p></p>
+<h2>Sponsors</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Sponsors.png">
+</div>
 <p></p>
