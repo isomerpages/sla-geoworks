@@ -172,8 +172,17 @@ only for Singapore Teams)</p>
 <p>Team Bilan (Universitas Indonesia), Indonesia</p>
 </li>
 <li>
-<p>Team Geotrailblazers (Universiti&nbsp;Teknologi&nbsp;Brunei), Brunei Darussalam</p>
+<p>Team GeoTrailblazers (Universiti&nbsp;Teknologi&nbsp;Brunei), Brunei Darussalam</p>
 </li>
 </ol>
-<p>Excellence Award</p>
+<h4>Excellence Award</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>TeamFTI (Universiti&nbsp;Islam Sultan&nbsp;Sharif Ali​), Brunei Darussalam</p>
+</li>
+<li>
+<p>Team GISadoMix (University of the&nbsp;Philippines Diliman​), Philippines</p>
+</li>
+</ol>
+<p></p>
 <p></p>
