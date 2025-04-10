@@ -183,10 +183,17 @@ only for Singapore Teams)</p>
 <li>
 <p>Team GISadoMix (University of the&nbsp;Philippines Diliman​), Philippines</p>
 </li>
+</ol>
+<h4>Merit Award</h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Team PhoenixReign (Uttaradit Rajabhat&nbsp;University​), Thailand</p>
 </li>
+<li>
+<p>Team GoodLuck (Institute&nbsp;Teknologi&nbsp;Bandung​), Indonesia</p>
+</li>
+<li>
+<p>Team Astrax&nbsp;Nova​ (Uttaradit Rajabhat&nbsp;University​), Thailand</p>
+</li>
 </ol>
-<p></p>
-<p></p>
 <p></p>
