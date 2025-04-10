@@ -183,6 +183,10 @@ only for Singapore Teams)</p>
 <li>
 <p>Team GISadoMix (University of the&nbsp;Philippines Diliman​), Philippines</p>
 </li>
+<li>
+<p>Team PhoenixReign (Uttaradit Rajabhat&nbsp;University​), Thailand</p>
+</li>
 </ol>
+<p></p>
 <p></p>
 <p></p>
