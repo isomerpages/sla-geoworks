@@ -162,3 +162,11 @@ only for Singapore Teams)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGC_25_Sponsors.png">
 </div>
 <p></p>
+<h2>Winning Teams</h2>
+<h4>Distinction Award</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Team Sptial Impact</p>
+</li>
+</ol>
+<p></p>
