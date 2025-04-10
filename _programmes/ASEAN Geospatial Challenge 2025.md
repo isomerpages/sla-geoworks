@@ -166,7 +166,14 @@ only for Singapore Teams)</p>
 <h4>Distinction Award</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Team Sptial Impact</p>
+<p>Team Spatial Impact (National University of Singapore), Singapore</p>
+</li>
+<li>
+<p>Team Bilan (Universitas Indonesia), Indonesia</p>
+</li>
+<li>
+<p>Team Geotrailblazers (Universiti&nbsp;Teknologi&nbsp;Brunei), Brunei Darussalam</p>
 </li>
 </ol>
+<p>Excellence Award</p>
 <p></p>
