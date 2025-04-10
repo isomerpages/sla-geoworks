@@ -195,5 +195,10 @@ only for Singapore Teams)</p>
 <li>
 <p>Team Astrax&nbsp;Nova​ (Uttaradit Rajabhat&nbsp;University​), Thailand</p>
 </li>
+<li>
+<p>Team Active Atlas​ (University at Buffalo –&nbsp;Singapore Institute&nbsp;of&nbsp;Management​),
+Singapore</p>
+</li>
 </ol>
+<p></p>
 <p></p>
