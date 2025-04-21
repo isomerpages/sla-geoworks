@@ -201,4 +201,8 @@ Singapore</p>
 </li>
 </ol>
 <p></p>
+<p>Enjoy the video montage of AGC 2025!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h7uYvPz8_58?si=5vjRxvtMrrMut0Gu"></iframe>
+</div>
 <p></p>
