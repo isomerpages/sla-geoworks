@@ -6,18 +6,22 @@ description: ""
 third_nav_title: Geo Connect Asia
 ---
 <p></p>
+<p><strong>Opening Ceremony Launch</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09705.jpg">
 </div>
-<p><strong>Opening Ceremony Launch</strong>
-</p>
-<p>The fifth edition of Geo Connect Asia 2025 commenced with an opening ceremony
-led by Mr Yeoh Oon Jin, Chairman of Singapore Land Authority (SLA) and
-Mr Rupert Owen, Co-Founder of Geo Connect Asia. Following welcome remarks
-by Mr Rupert Owen, Mr Yeoh announced the official expansion of two key
-initiatives: the Living Asset MaP (LAMP) and Barrier-Free-Access (BFA).</p>
+<p>The <strong>fifth edition</strong> of <strong>Geo Connect Asia 2025</strong> commenced
+with an opening ceremony led by Mr Yeoh Oon Jin, Chairman of Singapore
+Land Authority (SLA) and Mr Rupert Owen, Co-Founder of Geo Connect Asia.
+Following welcome remarks by Mr Rupert Owen, Mr Yeoh announced the official
+expansion of two key initiatives: the Living Asset MaP (LAMP) and Barrier-Free-Access
+(BFA).</p>
 <p><strong>Living Asset MaP (LAMP) expanding to more precints across Singapore</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_prescribing.png">
+</div>
 <p>Living Asset MaP (LAMP) is a community-centric initiative co-developed
 by SLA and SingHealth Community Hospitals to support social prescribing.
 From its pilot in Sengkang, LAMP is now expanding to more precincts across
