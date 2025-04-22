@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Geo Connect Asia
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09705.jpg">
+</div>
 <p><strong>Opening Ceremony Launch</strong>
 </p>
 <p>The fifth edition of Geo Connect Asia 2025 commenced with an opening ceremony
