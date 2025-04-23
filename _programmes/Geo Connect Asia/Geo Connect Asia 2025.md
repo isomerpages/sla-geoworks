@@ -82,13 +82,28 @@ Category received their awards from Mr Yeoh during the event.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09756.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09763.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09771.jpg">
+</div>
 <p>Find out more <a href="https://geoworks.sla.gov.sg/programmes/aseangeospatialchallenge/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Map Our World 2024</strong> – a Public-Private-Partnership (PPP)
 approach towards increasing awareness for a career in Geomatics for students.</p>
 <p>Map Our World (MoW) is a geospatial awareness building initiative for
-students. A total of 52 students took part in MoW.</p>
-<p>MoW 2024 is organised by SLA and supported by MOE, Bentley, ESRI, Leica
-Geosystems, Maxar, SISV and Trimble.</p>
+students. MoW 2024 is organised by SLA and supported by MOE, Bentley, ESRI,
+Leica Geosystems, Maxar, SISV and Trimble.</p>
+<p>The two best teams received their awards from Mr Yeoh on stage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09778_Eyes_Opened_corrected.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09784.jpg">
+</div>
 <p><strong>Exhibition Tour by SLA Chairman</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -177,4 +192,5 @@ inclusive, impactful, and future-ready. Discussion topics included solution
 scalability, social impact initiatives, cross-sector collaboration, technological
 advancement, and talent development strategies.</p>
 <p>Watch Closing Plenary video <a href="https://www.linkedin.com/posts/singapore-land-authority_gca-2025-closing-plenary-activity-7318509653967937538-Cv82?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAZIZusBlT-yPDg9D_XyktGB_diT-mokdWM" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p></p>
