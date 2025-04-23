@@ -215,5 +215,8 @@ advancement, and talent development strategies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01362.jpg">
 </div>
+<p>We thank the organiser, Montgomery Asia for their strong support and our
+team for their dedication in delivering this successful event!</p>
+<p>See you at Geo Connect Asia (31 Mar &amp; 1 Apr 2026) next year!</p>
 <p></p>
-<p></p>
+<p>The</p>
