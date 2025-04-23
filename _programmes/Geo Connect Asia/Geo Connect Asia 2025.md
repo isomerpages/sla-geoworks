@@ -59,7 +59,6 @@ strategies, and future-ready infrastructure development.</p>
 subsidence—remains an often-overlooked factor. Without long-term land motion
 data, we risk underestimating the real extent of climate vulnerabilities,
 particularly for a low-lying, highly urbanised island state like Singapore.</p>
-<p>&nbsp;</p>
 <p>In response, SLA is embarking on the first nationwide compilation of long-term
 land motion data. This foundational geospatial initiative will support
 key agencies like Maritime and Port Authority of Singapore (MPA), PUB,
@@ -87,6 +86,9 @@ then visited the Thailand and Sabah Pavilions, and concluded with showcases
 by a few prominent leading companies.</p>
 <p><strong>Panel: Geo + Augmented Intelligence: Transforming Data into Actionable Insights</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00191.jpg">
+</div>
 <p>On Day 1 of Geo Connect Asia 2025, a panel featuring</p>
 <ul data-tight="true" class="tight">
 <li>
