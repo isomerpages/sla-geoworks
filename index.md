@@ -57,7 +57,7 @@ sections:
       description: "Themed 'Geospatial for Good: Empowering Lives, Enriching Minds',
         the 3-day festival from 15 - 17 Oct was attended by close to 650
         participants."
-      button: Click here to find out more
+      button: View post-event highlights
       url: https://geoworks.sla.gov.sg/programmes/sggeofest/sggeofest2024
       image: /images/DSC07844_Enhanced_NR.jpg
       alt: Click here to find out more!
