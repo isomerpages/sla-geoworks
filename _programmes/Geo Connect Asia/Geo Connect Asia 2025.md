@@ -240,4 +240,4 @@ technological advancement, and talent development strategies.</p>
 <p>We thank the organiser, Montgomery Asia for their strong support and our
 team for their dedication in delivering this successful event!</p>
 <p>See you at Geo Connect Asia (31 Mar &amp; 1 Apr 2026) next year!</p>
-<p>The</p>
+<p></p>
