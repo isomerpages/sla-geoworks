@@ -69,6 +69,32 @@ land, and impacts from underground construction.</p>
 <p>The MMOU reflects Singapore’s bold commitment to international cooperation,
 and ensures that we have the tools, data and partnerships needed to build
 long-term urban and climate resilience.</p>
+<p><strong>ASEAN Geospatial Challenge 2025 and Map Our World 2024</strong>
+</p>
+<p>The <strong>ASEAN Geospatial Challenge 2025</strong> brings youth in the
+ASEAN region together to use geospatial technology and information to support
+nations’ efforts to achieve the United Nation’s Sustainable Development
+Goals. Targeting students from Institutes of Higher Learning (IHL) in the
+ASEAN region, the challenge aims to:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultivate good
+relationships and collaborations among ASEAN youth.</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhance geospatial
+competencies and facilitate knowledge sharing.</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise interest
+in the geospatial field.</p>
+<p>Organised by SLA and supported by geospatial agencies from Brunei Darussalam
+(Ministry of Development), Indonesia (Badan Informasi Geospasial (BIG)),
+Philippines (National Mapping and Resource Information Authority (NAMRIA))
+and Thailand (Geo-Informatics and Space Technology Development Agency (GISTDA).
+This year’s challenge attracted 35 entries from IHLs in the region.</p>
+<p><strong>Map Our World 2024</strong> – a Public-Private-Partnership (PPP)
+approach towards increasing awareness for a career in Geomatics for students.</p>
+<p><u>&nbsp;</u>
+</p>
+<p>Map Our World (MoW) is a geospatial awareness building initiative for
+students. A total of 52 students took part in MoW.</p>
+<p>MoW 2024 is organised by SLA and supported by MOE, Bentley, ESRI, Leica
+Geosystems, Maxar, SISV and Trimble.</p>
 <p><strong>Exhibition Tour by SLA Chairman</strong>
 </p>
 <div class="isomer-image-wrapper">
