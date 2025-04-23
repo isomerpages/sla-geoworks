@@ -104,7 +104,7 @@ Leica Geosystems, Maxar, SISV and Trimble.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09784.jpg">
 </div>
-<p><strong>Exhibition Tour by SLA Chairman</strong>
+<p><strong>Exhibition Tour led by SLA Chairman and delegates</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09819.jpg">
@@ -161,12 +161,12 @@ data— collaborate and blend it to solve global challenges!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00380.jpg">
 </div>
-<p>Digital Underground Connect 2025 commenced with an Opening Remarks by
-Mr Sin Lye Chong, Assistant Chief Executive, Geospatial &amp; Engagement
-&amp; Chief Sustainability Officer of SLA. More than 20 experts came together
-across four dynamic panels to explore the untapped potential of Singapore’s
-subsurface. The conversations underscored a clear vision: building a smarter,
-safer, and more sustainable city starts with understanding what’s underground.
+<p>Digital Underground Connect 2025 commenced with an Opening Remarks by <strong>Mr Sin Lye Chong</strong>,
+Assistant Chief Executive, Geospatial &amp; Engagement &amp; Chief Sustainability
+Officer of SLA. More than 20 experts came together across four dynamic
+panels to explore the untapped potential of Singapore’s subsurface. The
+conversations underscored a clear vision: building a smarter, safer, and
+more sustainable city starts with understanding what’s underground.
 <br>
 <br>Strong public-private partnerships and reliable underground data are key
 to shaping an accurate digital twin of our underground spaces. By breaking
@@ -206,11 +206,33 @@ infrastructure management, resource optimisation, and environmental monitoring.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01348.jpg">
 </div>
-<p>The Geo Connect Asia 2025 concluded with an expert panel discussion where
-speakers unpacked what it takes to scale geospatial solutions that are
-inclusive, impactful, and future-ready. Discussion topics included solution
-scalability, social impact initiatives, cross-sector collaboration, technological
-advancement, and talent development strategies.</p>
+<p>The Geo Connect Asia 2025 concluded with an expert panel discussion featuring
+(from left to right):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-Host: Mr Colin Low, Chief Executive, Singapore Land Authority</p>
+</li>
+<li>
+<p>Panellist: Dr. Dheny Trie Wahyu Sampurno, Director of Atlas and Geospatial
+Applications, Geospatial Information Agency (BIG) of the Republic of Indonesia</p>
+</li>
+<li>
+<p>Panellist: Ms Nichol Ng, Group CEO, X-Inc Pte Ltd; Co-Founder, The Food
+Bank Singapore</p>
+</li>
+<li>
+<p>Panellist: Prof. Adam Grodek, Lecturer / Program Instructor Department
+of Geography, University at Buffalo</p>
+</li>
+<li>
+<p>Co-Host: Mr David Foo, Deputy Chief Executive for Operations and Technology,
+Maritime and Port Authority of Singapore</p>
+</li>
+</ul>
+<p>The speakers unpacked what it takes to scale geospatial solutions that
+are inclusive, impactful, and future-ready. Discussion topics included
+solution scalability, social impact initiatives, cross-sector collaboration,
+technological advancement, and talent development strategies.</p>
 <p>Watch Closing Plenary video <a href="https://www.linkedin.com/posts/singapore-land-authority_gca-2025-closing-plenary-activity-7318509653967937538-Cv82?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAZIZusBlT-yPDg9D_XyktGB_diT-mokdWM" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01362.jpg">
@@ -218,5 +240,4 @@ advancement, and talent development strategies.</p>
 <p>We thank the organiser, Montgomery Asia for their strong support and our
 team for their dedication in delivering this successful event!</p>
 <p>See you at Geo Connect Asia (31 Mar &amp; 1 Apr 2026) next year!</p>
-<p></p>
 <p>The</p>
