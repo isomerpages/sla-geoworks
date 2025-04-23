@@ -24,10 +24,11 @@ expansion of two key initiatives: the Living Asset MaP (LAMP) and Barrier-Free-A
 </div>
 <p></p>
 <p>Living Asset MaP (LAMP) is a community-centric initiative co-developed
-by SLA and SingHealth Community Hospitals, with support from MOHT to support
-social prescribing. From its pilot in Sengkang, LAMP is now expanding to
-more precincts across Singapore, engaging more seniors to stay active,
-engaged through local activities, improving their overall health and wellbeing</p>
+by SLA and SingHealth Community Hospitals, and supported by the MOH Office
+for Healthcare Transformation to enable social prescribing. From its pilot
+in Sengkang, LAMP is now expanding to more precincts across Singapore,
+connecting more seniors to local activities and services which will enable
+them to stay active and engaged, improving their overall health and wellbeing.</p>
 <p><strong>Expansion of Barrier-Free-Access Mapping from Outdoor to Indoor</strong>
 </p>
 <p>Barrier-Free-Access (BFA) initiative was started with an aim to help wheelchair
