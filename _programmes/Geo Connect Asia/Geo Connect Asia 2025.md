@@ -154,8 +154,16 @@ tools like LLMs to assess road planning and environmental impact.</p>
 closed with a rallying cry to geospatial professionals: don’t silo your
 data— collaborate and blend it to solve global challenges!</p>
 <p><strong>Digital Underground Connect 2025 (DUConnect)</strong>
-<br>
-<br>At Digital Underground Connect 2025, more than 20 experts came together
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00162.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00380.jpg">
+</div>
+<p>Digital Underground Connect 2025 commenced with an Opening Remarks by
+Mr Sin Lye Chong, Assistant Chief Executive, Geospatial &amp; Engagement
+&amp; Chief Sustainability Officer of SLA. More than 20 experts came together
 across four dynamic panels to explore the untapped potential of Singapore’s
 subsurface. The conversations underscored a clear vision: building a smarter,
 safer, and more sustainable city starts with understanding what’s underground.
@@ -170,10 +178,15 @@ reducing risks, and unlocking new possibilities for urban innovation.
 to dig into the future.</p>
 <p><strong>The Asian Aerial Mapping Forum 2025</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aerial_mapping.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aerial_mapping_2.png">
+</div>
 <p>While one forum took us deep into the Digital Underground, the other had
-us gazing skyward during the inaugural Asian Aerial Mapping Forum.
-<br>
-</p>
+us gazing skyward during the inaugural Asian Aerial Mapping Forum.</p>
 <p>From the first aerial photo snapped via hot air balloon in 1858 to today’s
 AI-enhanced LiDAR scans and drone imagery, aerial mapping has become a
 cornerstone of urban digital twins. It’s the birds-eye foundation that
@@ -186,11 +199,21 @@ are transforming how we plan our urban future in the areas of land and
 infrastructure management, resource optimisation, and environmental monitoring.</p>
 <p><strong>Closing Plenary: Mainstreaming Geospatial for Good: From Niche to Necessity</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01104.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01348.jpg">
+</div>
 <p>The Geo Connect Asia 2025 concluded with an expert panel discussion where
 speakers unpacked what it takes to scale geospatial solutions that are
 inclusive, impactful, and future-ready. Discussion topics included solution
 scalability, social impact initiatives, cross-sector collaboration, technological
 advancement, and talent development strategies.</p>
 <p>Watch Closing Plenary video <a href="https://www.linkedin.com/posts/singapore-land-authority_gca-2025-closing-plenary-activity-7318509653967937538-Cv82?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAZIZusBlT-yPDg9D_XyktGB_diT-mokdWM" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC01362.jpg">
+</div>
 <p></p>
 <p></p>
