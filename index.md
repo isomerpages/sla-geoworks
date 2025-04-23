@@ -35,8 +35,8 @@ sections:
       description: Your gateway to meeting the world’s leading influencers in
         geospatial technology and location intelligence solutions, right at the
         heart of Singapore.
-      button: Click here to find out more
-      url: https://www.geoconnectasia.com/
+      button: View post-event highlights
+      url: https://geoworks.sla.gov.sg/programmes/gca/gca2025/
       image: /images/GCA_SLA_Banner___1280_x_720_px.png
       alt: Image alt text
   - infopic:
