@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Geo Connect Asia
 ---
-<p></p>
 <p><strong>Opening Ceremony Launch</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -22,7 +21,6 @@ expansion of two key initiatives: the Living Asset MaP (LAMP) and Barrier-Free-A
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_prescribing.png">
 </div>
-<p></p>
 <p>Living Asset MaP (LAMP) is a community-centric initiative co-developed
 by SLA and SingHealth Community Hospitals, and supported by the MOH Office
 for Healthcare Transformation to enable social prescribing. From its pilot
@@ -31,6 +29,9 @@ connecting more seniors to local activities and services which will enable
 them to stay active and engaged, improving their overall health and wellbeing.</p>
 <p><strong>Expansion of Barrier-Free-Access Mapping from Outdoor to Indoor</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BFA_TamasekHouse_165.jpg">
+</div>
 <p>Barrier-Free-Access (BFA) initiative was started with an aim to help wheelchair
 users move around Singapore more easily. What began with 1,000 km of accessible
 paths in nine areas including Bukit Merah, Ang Mo Kio and Orchard now has
@@ -43,6 +44,9 @@ which aims to extend BFA mapping from outdoor routes to indoor spaces including
 shopping malls, creating a seamless navigation experience.</p>
 <p><strong>Singapore Joins Global Efforts to Boost Land Motion and Climate Monitoring Efforts</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09743.jpg">
+</div>
 <p>SLA officially signed a Multilateral Memorandum of Understanding (MMOU)
 with the United Nations Global Geodetic Centre of Excellence (UN-GGCE)
 and close to 40 participating member states and organisations—uniting efforts
@@ -68,6 +72,13 @@ and ensures that we have the tools, data and partnerships needed to build
 long-term urban and climate resilience.</p>
 <p><strong>Exhibition Tour by SLA Chairman</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09819.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09844.jpg">
+</div>
 <p>Mr Yeoh and delegates also toured the exhibition, starting with SLA’s
 booth featuring its initiatives and products including Barrier-Free Access,
 LAMP, Digital Underground, the National 3D Mapping Programme, and SiReNT
