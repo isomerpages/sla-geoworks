@@ -176,6 +176,5 @@ speakers unpacked what it takes to scale geospatial solutions that are
 inclusive, impactful, and future-ready. Discussion topics included solution
 scalability, social impact initiatives, cross-sector collaboration, technological
 advancement, and talent development strategies.</p>
-<p>Watch Closing Plenary video <a href="https://www.linkedin.com/posts/singapore-land-authority_gca-2025-closing-plenary-activity-7318509653967937538-Cv82?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAZIZusBlT-yPDg9D_XyktGB_diT-mokdWM" rel="noopener noreferrer nofollow" target="_blank">here</a>.<em>Living Asset MaP (LAMP) is a community-centric initiative co-developed by SLA and SingHealth Community Hospitals, with support from MOHT to support social prescribing. From its pilot in Sengkang, LAMP is now expanding to more precincts across Singapore, engaging more seniors to stay active, engaged through local activities, improving their overall health and wellbeing.</em>
-</p>
-<p>&nbsp;</p>
+<p>Watch Closing Plenary video <a href="https://www.linkedin.com/posts/singapore-land-authority_gca-2025-closing-plenary-activity-7318509653967937538-Cv82?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAZIZusBlT-yPDg9D_XyktGB_diT-mokdWM" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
