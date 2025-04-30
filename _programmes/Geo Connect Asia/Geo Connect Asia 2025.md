@@ -104,7 +104,7 @@ Leica Geosystems, Maxar, SISV and Trimble.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09784.jpg">
 </div>
-<p><strong>Exhibition Tour led by SLA Chairman and delegates</strong>
+<p><strong>Exhibition Tour led by SLA Chairman, H.E. Dr. Eng. Mohammed Al Sayel, and Delegates</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09819.jpg">
