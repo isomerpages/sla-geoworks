@@ -260,6 +260,12 @@ all of us.</p>
 <p>Day one’s Geospatialisation Workshop provided a fun introduction to location-based
 intelligence, with real-world use cases and group discussions that showcased
 how geospatial tools can drive impact in the social sector.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06020.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06022.jpg">
+</div>
 <p>In day two’s GeoAdventure Workshop, participants got to experience how
 geospatial technology connects to our daily lives first-hand – with a foray
 outdoors! They ventured into the heartlands to ‘collect’ points of interest
