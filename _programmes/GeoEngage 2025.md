@@ -134,6 +134,9 @@ at the Agency for Integrated Care (AIC), presented their community asset
 mapping solution This visualisation tool is transforming how AIC approaches
 senior care by optimising service planning, delivery and placement to ensure
 every senior age well and thrive in their community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05808.jpg">
+</div>
 <p><strong>Understanding Residents' Needs Through Geospatial Analysis</strong>
 </p>
 <p>Mr Yet Tun Hoong, Assistant Director of Community Development at Viriya
