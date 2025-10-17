@@ -34,7 +34,7 @@ insights could address real-world socio-healthcare issues.</p>
 harnessed to build stronger, healthier, and more inclusive communities.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</p>
 </li>
 </ol>
 <p><strong>The top prize went to Team 1 from Nanyang Technological University (NTU)</strong>.
