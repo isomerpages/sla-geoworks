@@ -42,9 +42,12 @@ beyond designated areas and guide them via the fastest route to locate
 them. <strong>ReMind </strong>also mobilises nearby community responders
 to locate and share sightings of missing persons, guiding them to Dementia
 Go-to Points on OneMap and forming a community-centric safety network.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05684.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05723.jpg">
 </div>
 <p>Other Participating Teams (<em>not in order of merit</em>)</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>
