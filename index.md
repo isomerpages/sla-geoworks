@@ -36,7 +36,7 @@ sections:
         how geospatial insights can enhance social service delivery and
         strengthen community care.
       button: Post-Event highlights
-      url: https://file.go.gov.sg/geoengage-2025-flyer.pdf
+      url: https://geoworks.sla.gov.sg/geoengage/
       image: /images/DSC05770.jpg
       alt: Click here to find out more!
   - infopic:
