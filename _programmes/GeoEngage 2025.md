@@ -90,8 +90,12 @@ app, verified by AI-based photo recognition to improve reliability, while
 officers can access an&nbsp;operational dashboard&nbsp;with incident maps,
 temporal pattern analysis, and&nbsp;AI-generated patrol recommendations,
 to identify hotspots and optimise resource deployment.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05681.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_2_SMU_Group_Photo.jpg">
+</div>
 <p><strong>Insights that Inspired 💬</strong>
 </p>
 <p>Across both days, we heard from experts in the socio-healthcare space
