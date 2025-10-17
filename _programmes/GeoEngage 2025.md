@@ -246,10 +246,10 @@ viable in the long run, solutions should be designed to benefit a wider
 audience – for example, a robotic guide dog need not only to assist the
 visually impaired, but could also serve general wayfinding and guidance
 needs for anyone in need.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Collaboration is key:</strong> The
-discussion wrapped up with a call for deeper partnerships across academia,
-industry, and the social service sector – because building an inclusive
-digital ecosystem takes all of us.</p>
+<p>💡 <strong>Collaboration is key:</strong> The discussion wrapped up with
+a call for deeper partnerships across academia, industry, and the social
+service sector – because building an inclusive digital ecosystem takes
+all of us.</p>
 <p><strong>Hands-On Learning, From Classroom to Field 🎒</strong>
 </p>
 <p>Participants also got to roll up their sleeves in two interactive workshops!</p>
