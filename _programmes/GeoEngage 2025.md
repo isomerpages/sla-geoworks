@@ -68,6 +68,7 @@ to plan more efficient and equitable outreach. By combining sustainability
 and social support, <strong>CareLink </strong>turns waste reduction into
 a community-driven aid network, using <strong>geospatial intelligence</strong> to
 match surplus to need.</p>
+<p></p>
 <p><strong>VapeWatch: Geospatial Insights to Identify and Respond to Emerging Vaping Hotspots By Singapore Management University (SMU)</strong>
 </p>
 <p>With vaping cases rising to&nbsp;2,500 in just the first half of 2025,
