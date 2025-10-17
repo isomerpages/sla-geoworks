@@ -36,7 +36,7 @@ sections:
         how geospatial insights can enhance social service delivery and
         strengthen community care.
       button: Post-Event highlights
-      url: https://geoworks.sla.gov.sg/geoengage/
+      url: https://geoworks.sla.gov.sg/programmes/geoengage/
       image: /images/DSC05770.jpg
       alt: Click here to find out more!
   - infopic:

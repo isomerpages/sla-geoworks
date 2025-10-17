@@ -1,6 +1,6 @@
 ---
 title: GeoEngage 2025
-permalink: /geoengage/
+permalink: /programmes/geoengage/
 variant: tiptap
 description: ""
 ---
