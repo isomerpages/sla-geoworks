@@ -170,6 +170,9 @@ service delivery while building organisational capabilities. NCSS's presentation
 served as both inspiration and practical guidance, encouraging social service
 agencies to embrace digitalisation and develop the technical expertise
 needed to better serve their communities in an increasingly connected world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06128.jpg">
+</div>
 <p><strong>CARA - a Location-Enabled Lifestyle and Digital Community Platform</strong>
 </p>
 <p>Mr Bernard Lim, Director of Advocacy &amp; Communications at the Dementia
