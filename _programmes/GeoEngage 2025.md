@@ -123,6 +123,9 @@ whilst leveraging existing services. Through the mapping analyses, the
 organisation visualises service accessibility and client distribution patterns,
 enabling more targeted and effective support for the intellectually disabled
 community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05787.jpg">
+</div>
 <p><strong>Geospatial Planning for Improved Eldercare Accessibility</strong>
 </p>
 <p>Mr Dominic Lim, Head of Planning and Policy-Operations, and Ms Siti Hawa
