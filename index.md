@@ -4,7 +4,7 @@ title: GeoWorks
 description: GeoWorks - Southeast Asia’s first geospatial industry centre
 image: /images/isomer-logo.svg
 permalink: /
-notification: "GeoEngage 2025: Socio-Healthcare Edition will be happening on 7 & 8 Oct 2025!"
+notification: Geo Connect Asia 2026 will be happening from 31 March to 1 April 2026!
 sections:
   - hero:
       title: GeoWorks
@@ -18,7 +18,7 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: /programmes/sggeofest/sggeofest2024
+          url: /programmes/geoengage
         - title: Community
           description: Partners and Collaborators
           url: /community/ourpartners
@@ -36,7 +36,7 @@ sections:
         how geospatial insights can enhance social service delivery and
         strengthen community care.
       button: Post-Event highlights
-      url: https://file.go.gov.sg/geoengage-2025-flyer.pdf
+      url: https://geoworks.sla.gov.sg/geoengage/
       image: /images/DSC05770.jpg
       alt: Click here to find out more!
   - infopic:
