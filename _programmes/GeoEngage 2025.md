@@ -74,6 +74,9 @@ match surplus to need.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05680.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_3_SIM_Group_Photo.jpg">
+</div>
 <p><strong>VapeWatch: Geospatial Insights to Identify and Respond to Emerging Vaping Hotspots By Singapore Management University (SMU)</strong>
 </p>
 <p>With vaping cases rising to&nbsp;2,500 in just the first half of 2025,
