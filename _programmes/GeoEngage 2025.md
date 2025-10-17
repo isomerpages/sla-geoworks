@@ -234,10 +234,9 @@ Lim (Dementia Singapore), Prof. Suranga Nanayakkara (NUS), Ms Aileen Tan
 (NCSS), and Mr Cai Shaojun (RoamAssist) – for an afternoon of lively and
 thought-provoking discussion.</p>
 <p>Highlights include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Putting people first:</strong> The
-panel explored how technology can foster inclusivity when designed around
-real human needs – and introduced to communities gradually through a phased
-approach.</p>
+<p>💡 <strong>Putting people first:</strong> The panel explored how technology
+can foster inclusivity when designed around real human needs – and introduced
+to communities gradually through a phased approach.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Empowering the social sector:</strong> Beyond
 tech professionals, speakers emphasised that those in the social service
 space can also be technologists in their own right, by picking up digital
