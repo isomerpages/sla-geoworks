@@ -21,8 +21,8 @@ a more inclusive society.</p>
 <p>“Each of you here is a trailblazer – showing how geospatial can be used
 in practical, meaningful ways to build stronger, healthier communities.”</p>
 <p>With this inspiring opening message, our Acting Assistant Chief Executive
-(ACE) Benjamin Chan set the stage for two days of learning, sharing, and
-collaboration</p>
+(ACE), Mr Benjamin Chan set the stage for two days of learning, sharing,
+and collaboration</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05655.jpg">
 </div>
