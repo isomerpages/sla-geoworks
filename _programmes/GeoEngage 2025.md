@@ -271,6 +271,15 @@ geospatial technology connects to our daily lives first-hand – with a foray
 outdoors! They ventured into the heartlands to ‘collect’ points of interest
 using the Survey123 app, and then watched their data come alive on a map
 back at Revenue House.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06505.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06485.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06557.jpg">
+</div>
 <p>By the end of GeoEngage 2025, one thing was clear – geospatial technology
 is not just about data and maps. It’s about improving lives, enabling care,
 and mapping a better future for all.</p>
