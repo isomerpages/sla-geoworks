@@ -211,7 +211,7 @@ SLA, the panel brought together voices from across sectors – Prof. Elaine
 Ho (NUS), Mr Kelvin Koh (MINDS), Mr Dominic Lim (AIC), and Mr Yet Tun Hoong
 (VCS) – for an afternoon of lively and thought-provoking discussion.</p>
 <p>Highlights include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Impact of Geospatial in Socio-Healthcare: </strong>Speakers
+<p>💡 <strong>Impact of Geospatial in Socio-Healthcare: </strong>Speakers
 shared on the most significant impact that geospatial has made in their
 work, such as the use of geospatial data and insights which reveal the
 actual needs of the older adults - they thrive well when supported by community-wide
