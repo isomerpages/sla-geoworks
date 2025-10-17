@@ -237,10 +237,10 @@ thought-provoking discussion.</p>
 <p>💡 <strong>Putting people first:</strong> The panel explored how technology
 can foster inclusivity when designed around real human needs – and introduced
 to communities gradually through a phased approach.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Empowering the social sector:</strong> Beyond
-tech professionals, speakers emphasised that those in the social service
-space can also be technologists in their own right, by picking up digital
-skills and weaving them into their daily work.</p>
+<p>💡 <strong>Empowering the social sector:</strong> Beyond tech professionals,
+speakers emphasised that those in the social service space can also be
+technologists in their own right, by picking up digital skills and weaving
+them into their daily work.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Design for everyone:</strong> For
 technological adoption to be viable in the long run, solutions should be
 designed to benefit a wider audience – for example, a robotic guide dog
