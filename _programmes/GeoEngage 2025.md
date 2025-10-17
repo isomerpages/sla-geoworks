@@ -147,7 +147,9 @@ wellbeing needs, enabling teams to identify and support high-risk community
 members with timely interventions. Beyond needs assessment, the application's
 interactive features help users locate nearby amenities and resources,
 streamlining service planning while fostering community engagement.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05851.jpg">
+</div>
 <p><strong>RoamAssist: Guide Dog of the Future</strong>
 </p>
 <p>Mr Cai Shaojun, Chief Executive Officer of RoamAssist, demonstrated how
