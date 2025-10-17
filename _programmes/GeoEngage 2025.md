@@ -57,7 +57,7 @@ to remain socially and physically active by connecting them to nearby community
 activities through a gamified OneMap interface. By blending geospatial
 mapping with behavioural design, <strong>Purposeful Event</strong> helps
 create more connected, active, and inclusive communities for seniors.</p>
-<p><strong>3.CareLink: Targeted Aid Distribution &amp; Outreach for Vulnerable Communities by Singapore Institute of Management (SIM)</strong>
+<p><strong>CareLink: Targeted Aid Distribution &amp; Outreach for Vulnerable Communities by Singapore Institute of Management (SIM)</strong>
 </p>
 <p>In 2024, Singapore generated 784,000 tonnes of food waste, even as some
 households continued to experience food insecurity. The team’s prototype, <strong>CareLink</strong>,<strong> </strong>bridges
