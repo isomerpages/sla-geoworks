@@ -18,7 +18,7 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: /programmes/geoengage/geoengage
+          url: /programmes/geoengage-2025
         - title: Community
           description: Partners and Collaborators
           url: /community/ourpartners
