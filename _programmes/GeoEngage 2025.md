@@ -49,7 +49,8 @@ Go-to Points on OneMap and forming a community-centric safety network.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05723.jpg">
 </div>
-<p>Other Participating Teams (<em>not in order of merit</em>)1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>
+<p>Other Participating Teams (<em>not in order of merit</em>)</p>
+<p>2. &nbsp; <strong>Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>
 </p>
 <p>The team’s prototype, <strong>Purposeful Event</strong>, encourages seniors
 to remain socially and physically active by connecting them to nearby community
