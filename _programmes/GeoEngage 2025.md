@@ -157,6 +157,9 @@ the organisation is using geospatial technology to create robotic guide
 dogs for visually impaired users. This innovative device helps people navigate
 safely and independently by detecting obstacles and providing real-time
 guidance, offering a new level of freedom for those with visual impairments.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06109.jpg">
+</div>
 <p><strong>NCSS: Digital Transformation Roadmap for Singapore’s Social Service Sector</strong>
 </p>
 <p>Ms Aileen Tan, Director of Capability Implementation and Digitalisation
