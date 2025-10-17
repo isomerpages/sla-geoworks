@@ -251,6 +251,9 @@ needs for anyone in need.</p>
 a call for deeper partnerships across academia, industry, and the social
 service sector – because building an inclusive digital ecosystem takes
 all of us.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06380.jpg">
+</div>
 <p><strong>Hands-On Learning, From Classroom to Field 🎒</strong>
 </p>
 <p>Participants also got to roll up their sleeves in two interactive workshops!</p>
