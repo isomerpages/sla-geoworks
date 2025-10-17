@@ -199,6 +199,9 @@ about the object to the user through a verbal prompt. By combining assistive
 technologies with geospatial capabilities, AiSee empowers visually impaired
 users to navigate the world with greater confidence and independence, turning
 everyday environments into accessible, information-rich spaces.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06172.jpg">
+</div>
 <p><strong>Conversations that Mapped the Way Forward 🌍</strong>
 </p>
 <p><strong>Panel Discussion on Day One: Mapping Better Care Journeys</strong>
