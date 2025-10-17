@@ -69,8 +69,8 @@ in need, especially among elderly residents and low-income families. The
 system visualises areas of higher food insecurity, enabling community organisations
 to plan more efficient and equitable outreach. By combining sustainability
 and social support, <strong>CareLink </strong>turns waste reduction into
-a community-driven aid network, using <strong>geospatial intelligence</strong> to
-match surplus to need.</p>
+a community-driven aid network, using geospatial intelligence to match
+surplus to need.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05680.jpg">
 </div>
