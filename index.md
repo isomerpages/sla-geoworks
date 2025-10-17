@@ -29,11 +29,13 @@ sections:
       title: PROGRAMMES
       id: infobar
   - infopic:
-      title: GeoEngage 2025
+      title: "GeoEngage 2025: Socio-Healthcare Edition"
       subtitle: PROGRAMMES
       id: infopic
-      description: "Join us at GeoEngage 2025: Socio-Healthcare Edition on 7 & 8 Oct 2025"
-      button: View Programme
+      description: In Oct, the event brought together over 170 particpants to explore
+        how geospatial insights can enhance social service delivery and
+        strengthen community care.
+      button: Post-Event highlights
       url: https://file.go.gov.sg/geoengage-2025-flyer.pdf
       image: /images/GeoEngage2025_EDM_without_qr.png
       alt: Click here to find out more!
