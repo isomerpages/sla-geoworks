@@ -37,7 +37,7 @@ sections:
         strengthen community care.
       button: Post-Event highlights
       url: https://file.go.gov.sg/geoengage-2025-flyer.pdf
-      image: /images/GeoEngage2025_EDM_without_qr.png
+      image: /images/DSC05770.jpg
       alt: Click here to find out more!
   - infopic:
       title: Geo Connect Asia 2025
