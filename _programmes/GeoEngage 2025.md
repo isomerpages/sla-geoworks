@@ -224,8 +224,9 @@ alternatives. This realisation sparked the development of mapping solutions
 that now help clients easily identify their nearest service centres, dramatically
 reducing travel burdens and making support more accessible to those who
 need it most.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05953.jpg">
+</div>
 <p><strong>Panel Discussion on Day Two: Digital Transformation in Social Services: Building Inclusive Communities</strong>
 </p>
 <p>Moderated by Mr Tan Guo Jun, Deputy Director (Geospatial &amp; Data) at
