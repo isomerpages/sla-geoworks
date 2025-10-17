@@ -32,7 +32,7 @@ invited students from Singapore’s IHLs to reimagine how OneMap and geospatial
 insights could address real-world socio-healthcare issues.</p>
 <p>These student projects demonstrate how geospatial technologies can be
 harnessed to build stronger, healthier, and more inclusive communities.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
+<p><strong>ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
 </p>
 <p><strong>The top prize went to Team 1 from Nanyang Technological University (NTU)</strong>.
 The team developed a mobile app, <strong>ReMind</strong>, that uses OneMap’s
