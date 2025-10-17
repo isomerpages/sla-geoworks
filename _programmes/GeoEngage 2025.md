@@ -27,9 +27,9 @@ and collaboration.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05655.jpg">
 </div>
 <p>A highlight of the opening session was the award presentation for the
-Amazon Web Services (AWS)–SLA Geospatial Innovation Challenge – which invited
-students from Singapore’s IHLs to reimagine how OneMap and geospatial insights
-could address real-world socio-healthcare issues.</p>
+Amazon Web Services (AWS) - SLA Geospatial Innovation Challenge – which
+invited students from Singapore’s IHLs to reimagine how OneMap and geospatial
+insights could address real-world socio-healthcare issues.</p>
 <p>These student projects demonstrate how geospatial technologies can be
 harnessed to build stronger, healthier, and more inclusive communities.</p>
 <p><strong>ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
