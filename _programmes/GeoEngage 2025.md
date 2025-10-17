@@ -217,13 +217,13 @@ work, such as the use of geospatial data and insights which reveal the
 actual needs of the older adults - they thrive well when supported by community-wide
 networks rather than being confined to traditional residential-based care
 models.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 <strong>Addressing Clients’ Challenges: </strong>The
-journey into geospatial technology began with a simple but telling observation:
-clients were travelling unnecessarily long distances to access services,
-often bypassing closer alternatives. This realisation sparked the development
-of mapping solutions that now help clients easily identify their nearest
-service centres, dramatically reducing travel burdens and making support
-more accessible to those who need it most.</p>
+<p>💡 <strong>Addressing Clients’ Challenges: </strong>The journey into geospatial
+technology began with a simple but telling observation: clients were travelling
+unnecessarily long distances to access services, often bypassing closer
+alternatives. This realisation sparked the development of mapping solutions
+that now help clients easily identify their nearest service centres, dramatically
+reducing travel burdens and making support more accessible to those who
+need it most.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Panel Discussion on Day Two: Digital Transformation in Social Services: Building Inclusive Communities</strong>
