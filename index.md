@@ -18,7 +18,7 @@ sections:
           url: /about-us
         - title: Programmes
           description: Events and Challenges
-          url: /programmes/sggeofest/sggeofest2024
+          url: /programmes/geoengage
         - title: Community
           description: Partners and Collaborators
           url: /community/ourpartners
