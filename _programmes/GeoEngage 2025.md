@@ -110,6 +110,9 @@ demonstrates how understanding older Singaporeans' movement patterns can
 guide planners in creating age-friendly environments that extend far beyond
 traditional residential areas, enabling seniors to remain active and engaged
 throughout the city.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05753.jpg">
+</div>
 <p><strong>Inspiring MINDS, Transforming Lives through Geospatial Insights</strong>
 </p>
 <p>Mr Kelvin Koh, Chief Executive Officer of the Movement for the Intellectually
