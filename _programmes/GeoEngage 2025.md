@@ -185,6 +185,9 @@ feature empowers users to quickly identify the nearest support touchpoints,
 where specially trained staff stand ready to assist persons with dementia,
 creating a city-wide safety network that provides peace of mind for families
 and caregivers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC06146.jpg">
+</div>
 <p><strong>Assistive Augmentations – Fundamentally Transforming Human Ability</strong>
 </p>
 <p>Professor Suranga Nanayakkara, Vice Dean (Communications), School of Computing
