@@ -55,8 +55,8 @@ Go-to Points on OneMap and forming a community-centric safety network</p>
 <p>The team’s prototype, <strong>Purposeful Event</strong>, encourages seniors
 to remain socially and physically active by connecting them to nearby community
 activities through a gamified OneMap interface. By blending geospatial
-mapping with behavioural design, Purposeful Event helps create more connected,
-active, and inclusive communities for seniors.</p>
+mapping with behavioural design, <strong>Purposeful Event</strong> helps
+create more connected, active, and inclusive communities for seniors.</p>
 <p></p>
 <p>In 2024, Singapore generated 784,000 tonnes of food waste, even as some
 households continued to experience food insecurity. The team’s prototype, <strong>CareLink</strong>,<strong> </strong>bridges
