@@ -34,8 +34,7 @@ insights could address real-world socio-healthcare issues.</p>
 harnessed to build stronger, healthier, and more inclusive communities.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>  ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
-</p>
+<p></p>
 </li>
 </ol>
 <p><strong>The top prize went to Team 1 from Nanyang Technological University (NTU)</strong>.
@@ -54,7 +53,8 @@ Go-to Points on OneMap and forming a community-centric safety network.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05723.jpg">
 </div>
 <p>Other Participating Teams (<em>not in order of merit</em>)</p>
-<p>2. &nbsp; <strong>Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>
+<p>2. &nbsp; <strong>Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>2.
+&nbsp; <strong>Purposeful Event: Gamifying Wellness for Active Ageing by Institute of Technical Education (ITE)</strong>
 </p>
 <p>The team’s prototype, <strong>Purposeful Event</strong>, encourages seniors
 to remain socially and physically active by connecting them to nearby community
