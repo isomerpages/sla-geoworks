@@ -27,9 +27,9 @@ and collaboration.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC05655.jpg">
 </div>
 <p>A highlight of the opening session was the award presentation for the
-<a href="https://www.facebook.com/amazonwebservices?__cft__%5b0%5d=AZXl0AuQsOVoN4uHcFiP30T6syk4jX_dYkDlxBgkw5PJbbrZ5SjpUxcGznCWJweQb8IqCpzSf6euwXGWON4-seKbT4rZbj4k4rCsuNrzIlnxayjMCStSx4Y5JT8U7hSDqNS-Uq5weXH7fGznsg3f9VXhVyjm1BGKUFJKiepiEhpiy7rje-9E6w1zlG1tr0XMmvg&amp;__tn__=-%5dK-R" rel="noopener noreferrer nofollow" target="_blank">Amazon Web Services</a>(AWS)–SLA Geospatial Innovation Challenge – which
-invited students from Singapore’s IHLs to reimagine how OneMap and geospatial
-insights could address real-world socio-healthcare issues.</p>
+Amazon Web Services (AWS)–SLA Geospatial Innovation Challenge – which invited
+students from Singapore’s IHLs to reimagine how OneMap and geospatial insights
+could address real-world socio-healthcare issues.</p>
 <p>These student projects demonstrate how geospatial technologies can be
 harnessed to build stronger, healthier, and more inclusive communities.</p>
 <p><strong>ReMind: Supporting Dementia &amp; Community-Assisted Eldercare</strong>
