@@ -40,15 +40,15 @@ sections:
       image: /images/DSC05770.jpg
       alt: Click here to find out more!
   - infopic:
-      title: Geo Connect Asia 2025
+      title: Geo Connect Asia 2026
       subtitle: Events
       id: infopic
       description: Your gateway to meeting the world’s leading influencers in
         geospatial technology and location intelligence solutions, right at the
         heart of Singapore.
-      button: View post-event highlights
-      url: https://geoworks.sla.gov.sg/programmes/gca/gca2025/
-      image: /images/GCA_SLA_Banner___1280_x_720_px.png
+      button: View Event Website
+      url: https://www.geoconnectasia.com/
+      image: /images/GCA2026_Event_Banner.jpg
       alt: Image alt text
   - infopic:
       title: ASEAN Geospatial Challenge (AGC) 2025
